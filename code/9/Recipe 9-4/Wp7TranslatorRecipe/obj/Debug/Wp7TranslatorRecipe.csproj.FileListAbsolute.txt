@@ -1,0 +1,54 @@
+C:\Users\Leviathan\documents\visual studio 2010\Projects\Wp7TranslatorRecipe\Wp7TranslatorRecipe\Bin\Debug\ApplicationIcon.png
+C:\Users\Leviathan\documents\visual studio 2010\Projects\Wp7TranslatorRecipe\Wp7TranslatorRecipe\Bin\Debug\Background.png
+C:\Users\Leviathan\documents\visual studio 2010\Projects\Wp7TranslatorRecipe\Wp7TranslatorRecipe\Bin\Debug\Wp7TranslatorRecipe.dll
+C:\Users\Leviathan\documents\visual studio 2010\Projects\Wp7TranslatorRecipe\Wp7TranslatorRecipe\Bin\Debug\Wp7TranslatorRecipe.pdb
+C:\Users\Leviathan\documents\visual studio 2010\Projects\Wp7TranslatorRecipe\Wp7TranslatorRecipe\Bin\Debug\AppManifest.xaml
+C:\Users\Leviathan\documents\visual studio 2010\Projects\Wp7TranslatorRecipe\Wp7TranslatorRecipe\Bin\Debug\Wp7TranslatorRecipe.xap
+C:\Users\Leviathan\documents\visual studio 2010\Projects\Wp7TranslatorRecipe\Wp7TranslatorRecipe\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Leviathan\documents\visual studio 2010\Projects\Wp7TranslatorRecipe\Wp7TranslatorRecipe\obj\Debug\App.g.i.cs
+C:\Users\Leviathan\documents\visual studio 2010\Projects\Wp7TranslatorRecipe\Wp7TranslatorRecipe\obj\Debug\MainPage.g.i.cs
+C:\Users\Leviathan\documents\visual studio 2010\Projects\Wp7TranslatorRecipe\Wp7TranslatorRecipe\obj\Debug\Wp7TranslatorRecipe.g.resources
+C:\Users\Leviathan\documents\visual studio 2010\Projects\Wp7TranslatorRecipe\Wp7TranslatorRecipe\obj\Debug\Wp7TranslatorRecipe.dll
+C:\Users\Leviathan\documents\visual studio 2010\Projects\Wp7TranslatorRecipe\Wp7TranslatorRecipe\obj\Debug\Wp7TranslatorRecipe.pdb
+C:\Users\Leviathan\documents\visual studio 2010\Projects\Wp7TranslatorRecipe\Wp7TranslatorRecipe\obj\Debug\XapCacheFile.xml
+C:\Users\Leviathan\Documents\Visual Studio 2010\Projects\Wp7TranslatorRecipe\Wp7TranslatorRecipe\Bin\Debug\Microsoft.Phone.Controls.Toolkit.dll
+C:\Users\Leviathan\Documents\Visual Studio 2010\Projects\Wp7TranslatorRecipe\Wp7TranslatorRecipe\Bin\Debug\Microsoft.Phone.Controls.Toolkit.pdb
+C:\Users\Leviathan\Documents\Visual Studio 2010\Projects\Wp7TranslatorRecipe\Wp7TranslatorRecipe\Bin\Debug\Microsoft.Phone.Controls.Toolkit.xml
+C:\Users\Leviathan\Documents\Visual Studio 2010\Projects\Wp7TranslatorRecipe\Wp7TranslatorRecipe\obj\Debug\Wp7TranslatorRecipe.Messages.resources
+C:\Users\Leviathan\Documents\Visual Studio 2010\Projects\Wp7TranslatorRecipe\Wp7TranslatorRecipe\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\Leviathan\Documents\Visual Studio 2010\Projects\Wp7TranslatorRecipe\Wp7TranslatorRecipe\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\Leviathan\Documents\Visual Studio 2010\Projects\Wp7TranslatorRecipe\Wp7TranslatorRecipe\Bin\Debug\it-IT\Wp7TranslatorRecipe.resources.dll
+C:\Users\Leviathan\Documents\Visual Studio 2010\Projects\Wp7TranslatorRecipe\Wp7TranslatorRecipe\obj\Debug\Wp7TranslatorRecipe.Messages.it-IT.resources
+C:\Users\Leviathan\Documents\Visual Studio 2010\Projects\Wp7TranslatorRecipe\Wp7TranslatorRecipe\obj\Debug\it-IT\Wp7TranslatorRecipe.resources.dll
+C:\Users\Leviathan\Desktop\Upload\Ch 09\Wp7TranslatorRecipe\Wp7TranslatorRecipe\Bin\Debug\ApplicationIcon.png
+C:\Users\Leviathan\Desktop\Upload\Ch 09\Wp7TranslatorRecipe\Wp7TranslatorRecipe\Bin\Debug\Background.png
+C:\Users\Leviathan\Desktop\Upload\Ch 09\Wp7TranslatorRecipe\Wp7TranslatorRecipe\Bin\Debug\Wp7TranslatorRecipe.dll
+C:\Users\Leviathan\Desktop\Upload\Ch 09\Wp7TranslatorRecipe\Wp7TranslatorRecipe\Bin\Debug\Wp7TranslatorRecipe.pdb
+C:\Users\Leviathan\Desktop\Upload\Ch 09\Wp7TranslatorRecipe\Wp7TranslatorRecipe\Bin\Debug\AppManifest.xaml
+C:\Users\Leviathan\Desktop\Upload\Ch 09\Wp7TranslatorRecipe\Wp7TranslatorRecipe\Bin\Debug\Wp7TranslatorRecipe.xap
+C:\Users\Leviathan\Desktop\Upload\Ch 09\Wp7TranslatorRecipe\Wp7TranslatorRecipe\Bin\Debug\Microsoft.Phone.Controls.Toolkit.dll
+C:\Users\Leviathan\Desktop\Upload\Ch 09\Wp7TranslatorRecipe\Wp7TranslatorRecipe\Bin\Debug\Microsoft.Phone.Controls.Toolkit.pdb
+C:\Users\Leviathan\Desktop\Upload\Ch 09\Wp7TranslatorRecipe\Wp7TranslatorRecipe\Bin\Debug\Microsoft.Phone.Controls.Toolkit.xml
+C:\Users\Leviathan\Desktop\Upload\Ch 09\Wp7TranslatorRecipe\Wp7TranslatorRecipe\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Leviathan\Desktop\Upload\Ch 09\Wp7TranslatorRecipe\Wp7TranslatorRecipe\obj\Debug\App.g.i.cs
+C:\Users\Leviathan\Desktop\Upload\Ch 09\Wp7TranslatorRecipe\Wp7TranslatorRecipe\obj\Debug\MainPage.g.i.cs
+C:\Users\Leviathan\Desktop\Upload\Ch 09\Wp7TranslatorRecipe\Wp7TranslatorRecipe\obj\Debug\Wp7TranslatorRecipe.g.resources
+C:\Users\Leviathan\Desktop\Upload\Ch 09\Wp7TranslatorRecipe\Wp7TranslatorRecipe\obj\Debug\Wp7TranslatorRecipe.dll
+C:\Users\Leviathan\Desktop\Upload\Ch 09\Wp7TranslatorRecipe\Wp7TranslatorRecipe\obj\Debug\Wp7TranslatorRecipe.pdb
+C:\Users\Leviathan\Desktop\Upload\Ch 09\Wp7TranslatorRecipe\Wp7TranslatorRecipe\obj\Debug\XapCacheFile.xml
+C:\Users\Leviathan\Desktop\Code\9\Recipe 9-4\Wp7TranslatorRecipe\Bin\Debug\ApplicationIcon.png
+C:\Users\Leviathan\Desktop\Code\9\Recipe 9-4\Wp7TranslatorRecipe\Bin\Debug\Background.png
+C:\Users\Leviathan\Desktop\Code\9\Recipe 9-4\Wp7TranslatorRecipe\Bin\Debug\Wp7TranslatorRecipe.dll
+C:\Users\Leviathan\Desktop\Code\9\Recipe 9-4\Wp7TranslatorRecipe\Bin\Debug\Wp7TranslatorRecipe.pdb
+C:\Users\Leviathan\Desktop\Code\9\Recipe 9-4\Wp7TranslatorRecipe\Bin\Debug\AppManifest.xaml
+C:\Users\Leviathan\Desktop\Code\9\Recipe 9-4\Wp7TranslatorRecipe\Bin\Debug\Wp7TranslatorRecipe.xap
+C:\Users\Leviathan\Desktop\Code\9\Recipe 9-4\Wp7TranslatorRecipe\Bin\Debug\Microsoft.Phone.Controls.Toolkit.dll
+C:\Users\Leviathan\Desktop\Code\9\Recipe 9-4\Wp7TranslatorRecipe\Bin\Debug\Microsoft.Phone.Controls.Toolkit.pdb
+C:\Users\Leviathan\Desktop\Code\9\Recipe 9-4\Wp7TranslatorRecipe\Bin\Debug\Microsoft.Phone.Controls.Toolkit.xml
+C:\Users\Leviathan\Desktop\Code\9\Recipe 9-4\Wp7TranslatorRecipe\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Leviathan\Desktop\Code\9\Recipe 9-4\Wp7TranslatorRecipe\obj\Debug\App.g.i.cs
+C:\Users\Leviathan\Desktop\Code\9\Recipe 9-4\Wp7TranslatorRecipe\obj\Debug\MainPage.g.i.cs
+C:\Users\Leviathan\Desktop\Code\9\Recipe 9-4\Wp7TranslatorRecipe\obj\Debug\Wp7TranslatorRecipe.g.resources
+C:\Users\Leviathan\Desktop\Code\9\Recipe 9-4\Wp7TranslatorRecipe\obj\Debug\Wp7TranslatorRecipe.dll
+C:\Users\Leviathan\Desktop\Code\9\Recipe 9-4\Wp7TranslatorRecipe\obj\Debug\Wp7TranslatorRecipe.pdb
+C:\Users\Leviathan\Desktop\Code\9\Recipe 9-4\Wp7TranslatorRecipe\obj\Debug\XapCacheFile.xml

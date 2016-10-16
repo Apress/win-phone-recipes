@@ -1,0 +1,40 @@
+c:\users\leviathan\documents\visual studio 2010\Projects\Wp7Recipe0902 Atom Reader\Wp7Recipe0902 Atom Reader\Bin\Debug\ApplicationIcon.png
+c:\users\leviathan\documents\visual studio 2010\Projects\Wp7Recipe0902 Atom Reader\Wp7Recipe0902 Atom Reader\Bin\Debug\Background.png
+c:\users\leviathan\documents\visual studio 2010\Projects\Wp7Recipe0902 Atom Reader\Wp7Recipe0902 Atom Reader\Bin\Debug\Wp7Recipe0902 Atom Reader.dll
+c:\users\leviathan\documents\visual studio 2010\Projects\Wp7Recipe0902 Atom Reader\Wp7Recipe0902 Atom Reader\Bin\Debug\Wp7Recipe0902 Atom Reader.pdb
+c:\users\leviathan\documents\visual studio 2010\Projects\Wp7Recipe0902 Atom Reader\Wp7Recipe0902 Atom Reader\Bin\Debug\AppManifest.xaml
+c:\users\leviathan\documents\visual studio 2010\Projects\Wp7Recipe0902 Atom Reader\Wp7Recipe0902 Atom Reader\Bin\Debug\Wp7Recipe0902_Atom_Reader.xap
+c:\users\leviathan\documents\visual studio 2010\Projects\Wp7Recipe0902 Atom Reader\Wp7Recipe0902 Atom Reader\obj\Debug\ResolveAssemblyReference.cache
+c:\users\leviathan\documents\visual studio 2010\Projects\Wp7Recipe0902 Atom Reader\Wp7Recipe0902 Atom Reader\obj\Debug\Wp7Recipe0902 Atom Reader.g.resources
+c:\users\leviathan\documents\visual studio 2010\Projects\Wp7Recipe0902 Atom Reader\Wp7Recipe0902 Atom Reader\obj\Debug\Wp7Recipe0902 Atom Reader.dll
+c:\users\leviathan\documents\visual studio 2010\Projects\Wp7Recipe0902 Atom Reader\Wp7Recipe0902 Atom Reader\obj\Debug\Wp7Recipe0902 Atom Reader.pdb
+c:\users\leviathan\documents\visual studio 2010\Projects\Wp7Recipe0902 Atom Reader\Wp7Recipe0902 Atom Reader\obj\Debug\XapCacheFile.xml
+C:\Users\Leviathan\Documents\Visual Studio 2010\Projects\Wp7Recipe0902 Atom Reader\Wp7Recipe0902 Atom Reader\obj\Debug\App.g.cs
+C:\Users\Leviathan\Documents\Visual Studio 2010\Projects\Wp7Recipe0902 Atom Reader\Wp7Recipe0902 Atom Reader\obj\Debug\MainPage.g.cs
+C:\Users\Leviathan\Documents\Visual Studio 2010\Projects\Wp7Recipe0902 Atom Reader\Wp7Recipe0902 Atom Reader\obj\Debug\NewsViewer.g.cs
+C:\Users\Leviathan\Documents\Visual Studio 2010\Projects\chapter 9\Wp7Recipe0902 Atom Reader\Wp7Recipe0902 Atom Reader\Bin\Debug\ApplicationIcon.png
+C:\Users\Leviathan\Documents\Visual Studio 2010\Projects\chapter 9\Wp7Recipe0902 Atom Reader\Wp7Recipe0902 Atom Reader\Bin\Debug\Background.png
+C:\Users\Leviathan\Documents\Visual Studio 2010\Projects\chapter 9\Wp7Recipe0902 Atom Reader\Wp7Recipe0902 Atom Reader\Bin\Debug\Wp7Recipe0902 Atom Reader.dll
+C:\Users\Leviathan\Documents\Visual Studio 2010\Projects\chapter 9\Wp7Recipe0902 Atom Reader\Wp7Recipe0902 Atom Reader\Bin\Debug\Wp7Recipe0902 Atom Reader.pdb
+C:\Users\Leviathan\Documents\Visual Studio 2010\Projects\chapter 9\Wp7Recipe0902 Atom Reader\Wp7Recipe0902 Atom Reader\Bin\Debug\AppManifest.xaml
+C:\Users\Leviathan\Documents\Visual Studio 2010\Projects\chapter 9\Wp7Recipe0902 Atom Reader\Wp7Recipe0902 Atom Reader\Bin\Debug\Wp7Recipe0902_Atom_Reader.xap
+C:\Users\Leviathan\Documents\Visual Studio 2010\Projects\chapter 9\Wp7Recipe0902 Atom Reader\Wp7Recipe0902 Atom Reader\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Leviathan\Documents\Visual Studio 2010\Projects\chapter 9\Wp7Recipe0902 Atom Reader\Wp7Recipe0902 Atom Reader\obj\Debug\Wp7Recipe0902 Atom Reader.g.resources
+C:\Users\Leviathan\Documents\Visual Studio 2010\Projects\chapter 9\Wp7Recipe0902 Atom Reader\Wp7Recipe0902 Atom Reader\obj\Debug\Wp7Recipe0902 Atom Reader.dll
+C:\Users\Leviathan\Documents\Visual Studio 2010\Projects\chapter 9\Wp7Recipe0902 Atom Reader\Wp7Recipe0902 Atom Reader\obj\Debug\Wp7Recipe0902 Atom Reader.pdb
+C:\Users\Leviathan\Documents\Visual Studio 2010\Projects\chapter 9\Wp7Recipe0902 Atom Reader\Wp7Recipe0902 Atom Reader\obj\Debug\XapCacheFile.xml
+C:\Users\Leviathan\Documents\Visual Studio 2010\Projects\chapter 9\Wp7Recipe0902 Atom Reader\Wp7Recipe0902 Atom Reader\obj\Debug\App.g.i.cs
+C:\Users\Leviathan\Documents\Visual Studio 2010\Projects\chapter 9\Wp7Recipe0902 Atom Reader\Wp7Recipe0902 Atom Reader\obj\Debug\MainPage.g.i.cs
+C:\Users\Leviathan\Desktop\Code\9\Recipe 9-3\Wp7Recipe0902 Atom Reader\Bin\Debug\ApplicationIcon.png
+C:\Users\Leviathan\Desktop\Code\9\Recipe 9-3\Wp7Recipe0902 Atom Reader\Bin\Debug\Background.png
+C:\Users\Leviathan\Desktop\Code\9\Recipe 9-3\Wp7Recipe0902 Atom Reader\Bin\Debug\Wp7Recipe0902 Atom Reader.dll
+C:\Users\Leviathan\Desktop\Code\9\Recipe 9-3\Wp7Recipe0902 Atom Reader\Bin\Debug\Wp7Recipe0902 Atom Reader.pdb
+C:\Users\Leviathan\Desktop\Code\9\Recipe 9-3\Wp7Recipe0902 Atom Reader\Bin\Debug\AppManifest.xaml
+C:\Users\Leviathan\Desktop\Code\9\Recipe 9-3\Wp7Recipe0902 Atom Reader\Bin\Debug\Wp7Recipe0902_Atom_Reader.xap
+C:\Users\Leviathan\Desktop\Code\9\Recipe 9-3\Wp7Recipe0902 Atom Reader\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Leviathan\Desktop\Code\9\Recipe 9-3\Wp7Recipe0902 Atom Reader\obj\Debug\App.g.i.cs
+C:\Users\Leviathan\Desktop\Code\9\Recipe 9-3\Wp7Recipe0902 Atom Reader\obj\Debug\MainPage.g.i.cs
+C:\Users\Leviathan\Desktop\Code\9\Recipe 9-3\Wp7Recipe0902 Atom Reader\obj\Debug\Wp7Recipe0902 Atom Reader.g.resources
+C:\Users\Leviathan\Desktop\Code\9\Recipe 9-3\Wp7Recipe0902 Atom Reader\obj\Debug\Wp7Recipe0902 Atom Reader.dll
+C:\Users\Leviathan\Desktop\Code\9\Recipe 9-3\Wp7Recipe0902 Atom Reader\obj\Debug\Wp7Recipe0902 Atom Reader.pdb
+C:\Users\Leviathan\Desktop\Code\9\Recipe 9-3\Wp7Recipe0902 Atom Reader\obj\Debug\XapCacheFile.xml

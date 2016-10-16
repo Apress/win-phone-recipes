@@ -1,0 +1,1 @@
+C:\Users\Ferracchiati\Documents\Apress\Windows Phone 7 Recipes\MangoUpdate\code\Chapter1\SimpleMixedXNASIApplication\SimpleMixedXNASIApplicationLibContent\obj\Windows Phone\Debug\ResolveAssemblyReference.cache

@@ -1,0 +1,13 @@
+C:\Users\Leviathan\Desktop\Apress\Wp7 Recipes 2nd\Chapter 6\Projects\Recipe 6-5\CivicAddressResolver\ResolverRecipe\Bin\Debug\ApplicationIcon.png
+C:\Users\Leviathan\Desktop\Apress\Wp7 Recipes 2nd\Chapter 6\Projects\Recipe 6-5\CivicAddressResolver\ResolverRecipe\Bin\Debug\Background.png
+C:\Users\Leviathan\Desktop\Apress\Wp7 Recipes 2nd\Chapter 6\Projects\Recipe 6-5\CivicAddressResolver\ResolverRecipe\Bin\Debug\ResolverRecipe.dll
+C:\Users\Leviathan\Desktop\Apress\Wp7 Recipes 2nd\Chapter 6\Projects\Recipe 6-5\CivicAddressResolver\ResolverRecipe\Bin\Debug\ResolverRecipe.pdb
+C:\Users\Leviathan\Desktop\Apress\Wp7 Recipes 2nd\Chapter 6\Projects\Recipe 6-5\CivicAddressResolver\ResolverRecipe\Bin\Debug\AppManifest.xaml
+C:\Users\Leviathan\Desktop\Apress\Wp7 Recipes 2nd\Chapter 6\Projects\Recipe 6-5\CivicAddressResolver\ResolverRecipe\Bin\Debug\ResolverRecipe.xap
+C:\Users\Leviathan\Desktop\Apress\Wp7 Recipes 2nd\Chapter 6\Projects\Recipe 6-5\CivicAddressResolver\ResolverRecipe\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Leviathan\Desktop\Apress\Wp7 Recipes 2nd\Chapter 6\Projects\Recipe 6-5\CivicAddressResolver\ResolverRecipe\obj\Debug\App.g.i.cs
+C:\Users\Leviathan\Desktop\Apress\Wp7 Recipes 2nd\Chapter 6\Projects\Recipe 6-5\CivicAddressResolver\ResolverRecipe\obj\Debug\MainPage.g.i.cs
+C:\Users\Leviathan\Desktop\Apress\Wp7 Recipes 2nd\Chapter 6\Projects\Recipe 6-5\CivicAddressResolver\ResolverRecipe\obj\Debug\ResolverRecipe.g.resources
+C:\Users\Leviathan\Desktop\Apress\Wp7 Recipes 2nd\Chapter 6\Projects\Recipe 6-5\CivicAddressResolver\ResolverRecipe\obj\Debug\ResolverRecipe.dll
+C:\Users\Leviathan\Desktop\Apress\Wp7 Recipes 2nd\Chapter 6\Projects\Recipe 6-5\CivicAddressResolver\ResolverRecipe\obj\Debug\ResolverRecipe.pdb
+C:\Users\Leviathan\Desktop\Apress\Wp7 Recipes 2nd\Chapter 6\Projects\Recipe 6-5\CivicAddressResolver\ResolverRecipe\obj\Debug\XapCacheFile.xml

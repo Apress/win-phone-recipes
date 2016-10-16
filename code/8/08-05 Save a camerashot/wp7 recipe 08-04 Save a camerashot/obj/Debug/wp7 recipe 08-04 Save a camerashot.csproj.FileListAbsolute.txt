@@ -1,0 +1,42 @@
+c:\users\leviathan\documents\visual studio 2010\Projects\wp7 recipe 08-04 Save a camerashot\wp7 recipe 08-04 Save a camerashot\Bin\Debug\ApplicationIcon.png
+c:\users\leviathan\documents\visual studio 2010\Projects\wp7 recipe 08-04 Save a camerashot\wp7 recipe 08-04 Save a camerashot\Bin\Debug\Background.png
+c:\users\leviathan\documents\visual studio 2010\Projects\wp7 recipe 08-04 Save a camerashot\wp7 recipe 08-04 Save a camerashot\Bin\Debug\wp7 recipe 08-04 Save a camerashot.dll
+c:\users\leviathan\documents\visual studio 2010\Projects\wp7 recipe 08-04 Save a camerashot\wp7 recipe 08-04 Save a camerashot\Bin\Debug\wp7 recipe 08-04 Save a camerashot.pdb
+c:\users\leviathan\documents\visual studio 2010\Projects\wp7 recipe 08-04 Save a camerashot\wp7 recipe 08-04 Save a camerashot\Bin\Debug\AppManifest.xaml
+c:\users\leviathan\documents\visual studio 2010\Projects\wp7 recipe 08-04 Save a camerashot\wp7 recipe 08-04 Save a camerashot\Bin\Debug\wp7_recipe_08_04_Save_a_camerashot.xap
+c:\users\leviathan\documents\visual studio 2010\Projects\wp7 recipe 08-04 Save a camerashot\wp7 recipe 08-04 Save a camerashot\Bin\Debug\Microsoft.Phone.Controls.Toolkit.dll
+c:\users\leviathan\documents\visual studio 2010\Projects\wp7 recipe 08-04 Save a camerashot\wp7 recipe 08-04 Save a camerashot\Bin\Debug\Microsoft.Phone.Controls.Toolkit.pdb
+c:\users\leviathan\documents\visual studio 2010\Projects\wp7 recipe 08-04 Save a camerashot\wp7 recipe 08-04 Save a camerashot\Bin\Debug\Microsoft.Phone.Controls.Toolkit.xml
+c:\users\leviathan\documents\visual studio 2010\Projects\wp7 recipe 08-04 Save a camerashot\wp7 recipe 08-04 Save a camerashot\obj\Debug\ResolveAssemblyReference.cache
+c:\users\leviathan\documents\visual studio 2010\Projects\wp7 recipe 08-04 Save a camerashot\wp7 recipe 08-04 Save a camerashot\obj\Debug\App.g.i.cs
+c:\users\leviathan\documents\visual studio 2010\Projects\wp7 recipe 08-04 Save a camerashot\wp7 recipe 08-04 Save a camerashot\obj\Debug\MainPage.g.i.cs
+c:\users\leviathan\documents\visual studio 2010\Projects\wp7 recipe 08-04 Save a camerashot\wp7 recipe 08-04 Save a camerashot\obj\Debug\wp7 recipe 08-04 Save a camerashot.g.resources
+c:\users\leviathan\documents\visual studio 2010\Projects\wp7 recipe 08-04 Save a camerashot\wp7 recipe 08-04 Save a camerashot\obj\Debug\wp7 recipe 08-04 Save a camerashot.dll
+c:\users\leviathan\documents\visual studio 2010\Projects\wp7 recipe 08-04 Save a camerashot\wp7 recipe 08-04 Save a camerashot\obj\Debug\wp7 recipe 08-04 Save a camerashot.pdb
+c:\users\leviathan\documents\visual studio 2010\Projects\wp7 recipe 08-04 Save a camerashot\wp7 recipe 08-04 Save a camerashot\obj\Debug\XapCacheFile.xml
+c:\users\leviathan\documents\visual studio 2010\Projects\wp7 recipe 08-04 Save a camerashot\wp7 recipe 08-04 Save a camerashot\Bin\Debug\icons\appbar.save.rest.png
+c:\users\leviathan\documents\visual studio 2010\Projects\wp7 recipe 08-04 Save a camerashot\wp7 recipe 08-04 Save a camerashot\obj\Debug\Images.g.i.cs
+c:\users\leviathan\documents\visual studio 2010\Projects\wp7 recipe 08-04 Save a camerashot\wp7 recipe 08-04 Save a camerashot\Bin\Debug\icons\appbar.folder.rest.png
+c:\users\leviathan\documents\visual studio 2010\Projects\wp7 recipe 08-04 Save a camerashot\wp7 recipe 08-04 Save a camerashot\obj\Debug\CreateAlbum.g.i.cs
+c:\users\leviathan\documents\visual studio 2010\Projects\wp7 recipe 08-04 Save a camerashot\wp7 recipe 08-04 Save a camerashot\obj\Debug\Albums.g.i.cs
+C:\Users\Leviathan\Desktop\Apress\Wp7 Recipes 2nd\Chapter 8\projects\wp7 recipe 08-04 Save a camerashot\wp7 recipe 08-04 Save a camerashot\Bin\Debug\ApplicationIcon.png
+C:\Users\Leviathan\Desktop\Apress\Wp7 Recipes 2nd\Chapter 8\projects\wp7 recipe 08-04 Save a camerashot\wp7 recipe 08-04 Save a camerashot\Bin\Debug\Background.png
+C:\Users\Leviathan\Desktop\Apress\Wp7 Recipes 2nd\Chapter 8\projects\wp7 recipe 08-04 Save a camerashot\wp7 recipe 08-04 Save a camerashot\Bin\Debug\icons\appbar.folder.rest.png
+C:\Users\Leviathan\Desktop\Apress\Wp7 Recipes 2nd\Chapter 8\projects\wp7 recipe 08-04 Save a camerashot\wp7 recipe 08-04 Save a camerashot\Bin\Debug\icons\appbar.save.rest.png
+C:\Users\Leviathan\Desktop\Apress\Wp7 Recipes 2nd\Chapter 8\projects\wp7 recipe 08-04 Save a camerashot\wp7 recipe 08-04 Save a camerashot\Bin\Debug\wp7 recipe 08-04 Save a camerashot.dll
+C:\Users\Leviathan\Desktop\Apress\Wp7 Recipes 2nd\Chapter 8\projects\wp7 recipe 08-04 Save a camerashot\wp7 recipe 08-04 Save a camerashot\Bin\Debug\wp7 recipe 08-04 Save a camerashot.pdb
+C:\Users\Leviathan\Desktop\Apress\Wp7 Recipes 2nd\Chapter 8\projects\wp7 recipe 08-04 Save a camerashot\wp7 recipe 08-04 Save a camerashot\Bin\Debug\AppManifest.xaml
+C:\Users\Leviathan\Desktop\Apress\Wp7 Recipes 2nd\Chapter 8\projects\wp7 recipe 08-04 Save a camerashot\wp7 recipe 08-04 Save a camerashot\Bin\Debug\wp7_recipe_08_04_Save_a_camerashot.xap
+C:\Users\Leviathan\Desktop\Apress\Wp7 Recipes 2nd\Chapter 8\projects\wp7 recipe 08-04 Save a camerashot\wp7 recipe 08-04 Save a camerashot\Bin\Debug\Microsoft.Phone.Controls.Toolkit.dll
+C:\Users\Leviathan\Desktop\Apress\Wp7 Recipes 2nd\Chapter 8\projects\wp7 recipe 08-04 Save a camerashot\wp7 recipe 08-04 Save a camerashot\Bin\Debug\Microsoft.Phone.Controls.Toolkit.pdb
+C:\Users\Leviathan\Desktop\Apress\Wp7 Recipes 2nd\Chapter 8\projects\wp7 recipe 08-04 Save a camerashot\wp7 recipe 08-04 Save a camerashot\Bin\Debug\Microsoft.Phone.Controls.Toolkit.xml
+C:\Users\Leviathan\Desktop\Apress\Wp7 Recipes 2nd\Chapter 8\projects\wp7 recipe 08-04 Save a camerashot\wp7 recipe 08-04 Save a camerashot\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Leviathan\Desktop\Apress\Wp7 Recipes 2nd\Chapter 8\projects\wp7 recipe 08-04 Save a camerashot\wp7 recipe 08-04 Save a camerashot\obj\Debug\App.g.i.cs
+C:\Users\Leviathan\Desktop\Apress\Wp7 Recipes 2nd\Chapter 8\projects\wp7 recipe 08-04 Save a camerashot\wp7 recipe 08-04 Save a camerashot\obj\Debug\Albums.g.i.cs
+C:\Users\Leviathan\Desktop\Apress\Wp7 Recipes 2nd\Chapter 8\projects\wp7 recipe 08-04 Save a camerashot\wp7 recipe 08-04 Save a camerashot\obj\Debug\CreateAlbum.g.i.cs
+C:\Users\Leviathan\Desktop\Apress\Wp7 Recipes 2nd\Chapter 8\projects\wp7 recipe 08-04 Save a camerashot\wp7 recipe 08-04 Save a camerashot\obj\Debug\Images.g.i.cs
+C:\Users\Leviathan\Desktop\Apress\Wp7 Recipes 2nd\Chapter 8\projects\wp7 recipe 08-04 Save a camerashot\wp7 recipe 08-04 Save a camerashot\obj\Debug\MainPage.g.i.cs
+C:\Users\Leviathan\Desktop\Apress\Wp7 Recipes 2nd\Chapter 8\projects\wp7 recipe 08-04 Save a camerashot\wp7 recipe 08-04 Save a camerashot\obj\Debug\wp7 recipe 08-04 Save a camerashot.g.resources
+C:\Users\Leviathan\Desktop\Apress\Wp7 Recipes 2nd\Chapter 8\projects\wp7 recipe 08-04 Save a camerashot\wp7 recipe 08-04 Save a camerashot\obj\Debug\wp7 recipe 08-04 Save a camerashot.dll
+C:\Users\Leviathan\Desktop\Apress\Wp7 Recipes 2nd\Chapter 8\projects\wp7 recipe 08-04 Save a camerashot\wp7 recipe 08-04 Save a camerashot\obj\Debug\wp7 recipe 08-04 Save a camerashot.pdb
+C:\Users\Leviathan\Desktop\Apress\Wp7 Recipes 2nd\Chapter 8\projects\wp7 recipe 08-04 Save a camerashot\wp7 recipe 08-04 Save a camerashot\obj\Debug\XapCacheFile.xml

@@ -1,0 +1,6 @@
+﻿<Deployment xmlns="http://schemas.microsoft.com/client/2007/deployment" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" EntryPointAssembly="Wp7Recipe 06-06 Using Radio" EntryPointType="Wp7Recipe_06_06_Using_Radio.App" RuntimeVersion="3.0.40624.0">
+  <Deployment.Parts>
+    <AssemblyPart x:Name="Wp7Recipe 06-06 Using Radio" Source="Wp7Recipe 06-06 Using Radio.dll" />
+    <AssemblyPart x:Name="Microsoft.Phone.Controls.Toolkit" Source="Microsoft.Phone.Controls.Toolkit.dll" />
+  </Deployment.Parts>
+</Deployment>

@@ -1,0 +1,30 @@
+C:\Users\Leviathan\Desktop\Apress\Wp7 Recipes 2nd\Chapter 8\projects\9-3 Implementing local database\9-3 Implementing local database\Bin\Debug\ApplicationIcon.png
+C:\Users\Leviathan\Desktop\Apress\Wp7 Recipes 2nd\Chapter 8\projects\9-3 Implementing local database\9-3 Implementing local database\Bin\Debug\Background.png
+C:\Users\Leviathan\Desktop\Apress\Wp7 Recipes 2nd\Chapter 8\projects\9-3 Implementing local database\9-3 Implementing local database\Bin\Debug\9-3 Implementing local database.dll
+C:\Users\Leviathan\Desktop\Apress\Wp7 Recipes 2nd\Chapter 8\projects\9-3 Implementing local database\9-3 Implementing local database\Bin\Debug\9-3 Implementing local database.pdb
+C:\Users\Leviathan\Desktop\Apress\Wp7 Recipes 2nd\Chapter 8\projects\9-3 Implementing local database\9-3 Implementing local database\Bin\Debug\AppManifest.xaml
+C:\Users\Leviathan\Desktop\Apress\Wp7 Recipes 2nd\Chapter 8\projects\9-3 Implementing local database\9-3 Implementing local database\Bin\Debug\_9_3_Implementing_local_database.xap
+C:\Users\Leviathan\Desktop\Apress\Wp7 Recipes 2nd\Chapter 8\projects\9-3 Implementing local database\9-3 Implementing local database\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Leviathan\Desktop\Apress\Wp7 Recipes 2nd\Chapter 8\projects\9-3 Implementing local database\9-3 Implementing local database\obj\Debug\App.g.i.cs
+C:\Users\Leviathan\Desktop\Apress\Wp7 Recipes 2nd\Chapter 8\projects\9-3 Implementing local database\9-3 Implementing local database\obj\Debug\Customers.g.i.cs
+C:\Users\Leviathan\Desktop\Apress\Wp7 Recipes 2nd\Chapter 8\projects\9-3 Implementing local database\9-3 Implementing local database\obj\Debug\MainPage.g.i.cs
+C:\Users\Leviathan\Desktop\Apress\Wp7 Recipes 2nd\Chapter 8\projects\9-3 Implementing local database\9-3 Implementing local database\obj\Debug\9-3 Implementing local database.g.resources
+C:\Users\Leviathan\Desktop\Apress\Wp7 Recipes 2nd\Chapter 8\projects\9-3 Implementing local database\9-3 Implementing local database\obj\Debug\9-3 Implementing local database.dll
+C:\Users\Leviathan\Desktop\Apress\Wp7 Recipes 2nd\Chapter 8\projects\9-3 Implementing local database\9-3 Implementing local database\obj\Debug\9-3 Implementing local database.pdb
+C:\Users\Leviathan\Desktop\Apress\Wp7 Recipes 2nd\Chapter 8\projects\9-3 Implementing local database\9-3 Implementing local database\obj\Debug\XapCacheFile.xml
+C:\Users\Leviathan\Desktop\Apress\Wp7 Recipes 2nd\Chapter 8\projects\9-3 Implementing local database\9-3 Implementing local database\obj\Debug\CustomerDetail.g.i.cs
+C:\Users\Leviathan\Desktop\Apress\Wp7 Recipes 2nd\Chapter 8\projects\08-03 Implementing local database\9-3 Implementing local database\Bin\Debug\ApplicationIcon.png
+C:\Users\Leviathan\Desktop\Apress\Wp7 Recipes 2nd\Chapter 8\projects\08-03 Implementing local database\9-3 Implementing local database\Bin\Debug\Background.png
+C:\Users\Leviathan\Desktop\Apress\Wp7 Recipes 2nd\Chapter 8\projects\08-03 Implementing local database\9-3 Implementing local database\Bin\Debug\9-3 Implementing local database.dll
+C:\Users\Leviathan\Desktop\Apress\Wp7 Recipes 2nd\Chapter 8\projects\08-03 Implementing local database\9-3 Implementing local database\Bin\Debug\9-3 Implementing local database.pdb
+C:\Users\Leviathan\Desktop\Apress\Wp7 Recipes 2nd\Chapter 8\projects\08-03 Implementing local database\9-3 Implementing local database\Bin\Debug\AppManifest.xaml
+C:\Users\Leviathan\Desktop\Apress\Wp7 Recipes 2nd\Chapter 8\projects\08-03 Implementing local database\9-3 Implementing local database\Bin\Debug\_9_3_Implementing_local_database.xap
+C:\Users\Leviathan\Desktop\Apress\Wp7 Recipes 2nd\Chapter 8\projects\08-03 Implementing local database\9-3 Implementing local database\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Leviathan\Desktop\Apress\Wp7 Recipes 2nd\Chapter 8\projects\08-03 Implementing local database\9-3 Implementing local database\obj\Debug\App.g.i.cs
+C:\Users\Leviathan\Desktop\Apress\Wp7 Recipes 2nd\Chapter 8\projects\08-03 Implementing local database\9-3 Implementing local database\obj\Debug\CustomerDetail.g.i.cs
+C:\Users\Leviathan\Desktop\Apress\Wp7 Recipes 2nd\Chapter 8\projects\08-03 Implementing local database\9-3 Implementing local database\obj\Debug\Customers.g.i.cs
+C:\Users\Leviathan\Desktop\Apress\Wp7 Recipes 2nd\Chapter 8\projects\08-03 Implementing local database\9-3 Implementing local database\obj\Debug\MainPage.g.i.cs
+C:\Users\Leviathan\Desktop\Apress\Wp7 Recipes 2nd\Chapter 8\projects\08-03 Implementing local database\9-3 Implementing local database\obj\Debug\9-3 Implementing local database.g.resources
+C:\Users\Leviathan\Desktop\Apress\Wp7 Recipes 2nd\Chapter 8\projects\08-03 Implementing local database\9-3 Implementing local database\obj\Debug\9-3 Implementing local database.dll
+C:\Users\Leviathan\Desktop\Apress\Wp7 Recipes 2nd\Chapter 8\projects\08-03 Implementing local database\9-3 Implementing local database\obj\Debug\9-3 Implementing local database.pdb
+C:\Users\Leviathan\Desktop\Apress\Wp7 Recipes 2nd\Chapter 8\projects\08-03 Implementing local database\9-3 Implementing local database\obj\Debug\XapCacheFile.xml

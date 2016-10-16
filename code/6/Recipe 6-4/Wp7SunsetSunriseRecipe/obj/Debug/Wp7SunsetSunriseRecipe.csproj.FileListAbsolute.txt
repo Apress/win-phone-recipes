@@ -1,0 +1,13 @@
+c:\users\leviathan\documents\visual studio 2010\Projects\Wp7SunsetSunriseRecipe\Wp7SunsetSunriseRecipe\Bin\Debug\ApplicationIcon.png
+c:\users\leviathan\documents\visual studio 2010\Projects\Wp7SunsetSunriseRecipe\Wp7SunsetSunriseRecipe\Bin\Debug\Background.png
+c:\users\leviathan\documents\visual studio 2010\Projects\Wp7SunsetSunriseRecipe\Wp7SunsetSunriseRecipe\Bin\Debug\Wp7SunsetSunriseRecipe.dll
+c:\users\leviathan\documents\visual studio 2010\Projects\Wp7SunsetSunriseRecipe\Wp7SunsetSunriseRecipe\Bin\Debug\Wp7SunsetSunriseRecipe.pdb
+c:\users\leviathan\documents\visual studio 2010\Projects\Wp7SunsetSunriseRecipe\Wp7SunsetSunriseRecipe\Bin\Debug\AppManifest.xaml
+c:\users\leviathan\documents\visual studio 2010\Projects\Wp7SunsetSunriseRecipe\Wp7SunsetSunriseRecipe\Bin\Debug\Wp7SunsetSunriseRecipe.xap
+c:\users\leviathan\documents\visual studio 2010\Projects\Wp7SunsetSunriseRecipe\Wp7SunsetSunriseRecipe\obj\Debug\ResolveAssemblyReference.cache
+c:\users\leviathan\documents\visual studio 2010\Projects\Wp7SunsetSunriseRecipe\Wp7SunsetSunriseRecipe\obj\Debug\App.g.i.cs
+c:\users\leviathan\documents\visual studio 2010\Projects\Wp7SunsetSunriseRecipe\Wp7SunsetSunriseRecipe\obj\Debug\MainPage.g.i.cs
+c:\users\leviathan\documents\visual studio 2010\Projects\Wp7SunsetSunriseRecipe\Wp7SunsetSunriseRecipe\obj\Debug\Wp7SunsetSunriseRecipe.g.resources
+c:\users\leviathan\documents\visual studio 2010\Projects\Wp7SunsetSunriseRecipe\Wp7SunsetSunriseRecipe\obj\Debug\Wp7SunsetSunriseRecipe.dll
+c:\users\leviathan\documents\visual studio 2010\Projects\Wp7SunsetSunriseRecipe\Wp7SunsetSunriseRecipe\obj\Debug\Wp7SunsetSunriseRecipe.pdb
+c:\users\leviathan\documents\visual studio 2010\Projects\Wp7SunsetSunriseRecipe\Wp7SunsetSunriseRecipe\obj\Debug\XapCacheFile.xml

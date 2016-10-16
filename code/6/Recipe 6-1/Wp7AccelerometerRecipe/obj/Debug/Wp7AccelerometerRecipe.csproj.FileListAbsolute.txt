@@ -1,0 +1,39 @@
+C:\Users\Leviathan\Documents\Visual Studio 2010\Projects\Wp7AccelerometerRecipe\Wp7AccelerometerRecipe\Bin\Debug\ApplicationIcon.png
+C:\Users\Leviathan\Documents\Visual Studio 2010\Projects\Wp7AccelerometerRecipe\Wp7AccelerometerRecipe\Bin\Debug\Background.png
+C:\Users\Leviathan\Documents\Visual Studio 2010\Projects\Wp7AccelerometerRecipe\Wp7AccelerometerRecipe\Bin\Debug\Wp7AccelerometerRecipe.dll
+C:\Users\Leviathan\Documents\Visual Studio 2010\Projects\Wp7AccelerometerRecipe\Wp7AccelerometerRecipe\Bin\Debug\Wp7AccelerometerRecipe.pdb
+C:\Users\Leviathan\Documents\Visual Studio 2010\Projects\Wp7AccelerometerRecipe\Wp7AccelerometerRecipe\Bin\Debug\AppManifest.xaml
+C:\Users\Leviathan\Documents\Visual Studio 2010\Projects\Wp7AccelerometerRecipe\Wp7AccelerometerRecipe\Bin\Debug\Wp7AccelerometerRecipe.xap
+C:\Users\Leviathan\Documents\Visual Studio 2010\Projects\Wp7AccelerometerRecipe\Wp7AccelerometerRecipe\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Leviathan\Documents\Visual Studio 2010\Projects\Wp7AccelerometerRecipe\Wp7AccelerometerRecipe\obj\Debug\App.g.i.cs
+C:\Users\Leviathan\Documents\Visual Studio 2010\Projects\Wp7AccelerometerRecipe\Wp7AccelerometerRecipe\obj\Debug\MainPage.g.i.cs
+C:\Users\Leviathan\Documents\Visual Studio 2010\Projects\Wp7AccelerometerRecipe\Wp7AccelerometerRecipe\obj\Debug\Wp7AccelerometerRecipe.g.resources
+C:\Users\Leviathan\Documents\Visual Studio 2010\Projects\Wp7AccelerometerRecipe\Wp7AccelerometerRecipe\obj\Debug\Wp7AccelerometerRecipe.dll
+C:\Users\Leviathan\Documents\Visual Studio 2010\Projects\Wp7AccelerometerRecipe\Wp7AccelerometerRecipe\obj\Debug\Wp7AccelerometerRecipe.pdb
+C:\Users\Leviathan\Documents\Visual Studio 2010\Projects\Wp7AccelerometerRecipe\Wp7AccelerometerRecipe\obj\Debug\XapCacheFile.xml
+C:\Users\Leviathan\Documents\Visual Studio 2010\Projects\chapter 6\Wp7AccelerometerRecipe\Wp7AccelerometerRecipe\Bin\Debug\ApplicationIcon.png
+C:\Users\Leviathan\Documents\Visual Studio 2010\Projects\chapter 6\Wp7AccelerometerRecipe\Wp7AccelerometerRecipe\Bin\Debug\Background.png
+C:\Users\Leviathan\Documents\Visual Studio 2010\Projects\chapter 6\Wp7AccelerometerRecipe\Wp7AccelerometerRecipe\Bin\Debug\Wp7AccelerometerRecipe.dll
+C:\Users\Leviathan\Documents\Visual Studio 2010\Projects\chapter 6\Wp7AccelerometerRecipe\Wp7AccelerometerRecipe\Bin\Debug\Wp7AccelerometerRecipe.pdb
+C:\Users\Leviathan\Documents\Visual Studio 2010\Projects\chapter 6\Wp7AccelerometerRecipe\Wp7AccelerometerRecipe\Bin\Debug\AppManifest.xaml
+C:\Users\Leviathan\Documents\Visual Studio 2010\Projects\chapter 6\Wp7AccelerometerRecipe\Wp7AccelerometerRecipe\Bin\Debug\Wp7AccelerometerRecipe.xap
+C:\Users\Leviathan\Documents\Visual Studio 2010\Projects\chapter 6\Wp7AccelerometerRecipe\Wp7AccelerometerRecipe\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Leviathan\Documents\Visual Studio 2010\Projects\chapter 6\Wp7AccelerometerRecipe\Wp7AccelerometerRecipe\obj\Debug\App.g.i.cs
+C:\Users\Leviathan\Documents\Visual Studio 2010\Projects\chapter 6\Wp7AccelerometerRecipe\Wp7AccelerometerRecipe\obj\Debug\MainPage.g.i.cs
+C:\Users\Leviathan\Documents\Visual Studio 2010\Projects\chapter 6\Wp7AccelerometerRecipe\Wp7AccelerometerRecipe\obj\Debug\Wp7AccelerometerRecipe.g.resources
+C:\Users\Leviathan\Documents\Visual Studio 2010\Projects\chapter 6\Wp7AccelerometerRecipe\Wp7AccelerometerRecipe\obj\Debug\Wp7AccelerometerRecipe.dll
+C:\Users\Leviathan\Documents\Visual Studio 2010\Projects\chapter 6\Wp7AccelerometerRecipe\Wp7AccelerometerRecipe\obj\Debug\Wp7AccelerometerRecipe.pdb
+C:\Users\Leviathan\Documents\Visual Studio 2010\Projects\chapter 6\Wp7AccelerometerRecipe\Wp7AccelerometerRecipe\obj\Debug\XapCacheFile.xml
+C:\Users\Leviathan\Desktop\Apress\Wp7 Recipes 2nd\Chapter 6\Projects\Recipe 6-1\Wp7AccelerometerRecipe\Bin\Debug\ApplicationIcon.png
+C:\Users\Leviathan\Desktop\Apress\Wp7 Recipes 2nd\Chapter 6\Projects\Recipe 6-1\Wp7AccelerometerRecipe\Bin\Debug\Background.png
+C:\Users\Leviathan\Desktop\Apress\Wp7 Recipes 2nd\Chapter 6\Projects\Recipe 6-1\Wp7AccelerometerRecipe\Bin\Debug\Wp7AccelerometerRecipe.dll
+C:\Users\Leviathan\Desktop\Apress\Wp7 Recipes 2nd\Chapter 6\Projects\Recipe 6-1\Wp7AccelerometerRecipe\Bin\Debug\Wp7AccelerometerRecipe.pdb
+C:\Users\Leviathan\Desktop\Apress\Wp7 Recipes 2nd\Chapter 6\Projects\Recipe 6-1\Wp7AccelerometerRecipe\Bin\Debug\AppManifest.xaml
+C:\Users\Leviathan\Desktop\Apress\Wp7 Recipes 2nd\Chapter 6\Projects\Recipe 6-1\Wp7AccelerometerRecipe\Bin\Debug\Wp7AccelerometerRecipe.xap
+C:\Users\Leviathan\Desktop\Apress\Wp7 Recipes 2nd\Chapter 6\Projects\Recipe 6-1\Wp7AccelerometerRecipe\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Leviathan\Desktop\Apress\Wp7 Recipes 2nd\Chapter 6\Projects\Recipe 6-1\Wp7AccelerometerRecipe\obj\Debug\App.g.i.cs
+C:\Users\Leviathan\Desktop\Apress\Wp7 Recipes 2nd\Chapter 6\Projects\Recipe 6-1\Wp7AccelerometerRecipe\obj\Debug\MainPage.g.i.cs
+C:\Users\Leviathan\Desktop\Apress\Wp7 Recipes 2nd\Chapter 6\Projects\Recipe 6-1\Wp7AccelerometerRecipe\obj\Debug\Wp7AccelerometerRecipe.g.resources
+C:\Users\Leviathan\Desktop\Apress\Wp7 Recipes 2nd\Chapter 6\Projects\Recipe 6-1\Wp7AccelerometerRecipe\obj\Debug\Wp7AccelerometerRecipe.dll
+C:\Users\Leviathan\Desktop\Apress\Wp7 Recipes 2nd\Chapter 6\Projects\Recipe 6-1\Wp7AccelerometerRecipe\obj\Debug\Wp7AccelerometerRecipe.pdb
+C:\Users\Leviathan\Desktop\Apress\Wp7 Recipes 2nd\Chapter 6\Projects\Recipe 6-1\Wp7AccelerometerRecipe\obj\Debug\XapCacheFile.xml

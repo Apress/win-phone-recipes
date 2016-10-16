@@ -1,0 +1,5 @@
+﻿<Deployment xmlns="http://schemas.microsoft.com/client/2007/deployment" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" EntryPointAssembly="First Push Notification" EntryPointType="First_Push_Notification.App" RuntimeVersion="4.7.50308.0">
+  <Deployment.Parts>
+    <AssemblyPart x:Name="First Push Notification" Source="First Push Notification.dll" />
+  </Deployment.Parts>
+</Deployment>

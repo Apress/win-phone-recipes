@@ -1,0 +1,14 @@
+C:\Users\Leviathan\Desktop\Apress\Wp7 Recipes 2nd\Chapter 10\Projects\Accessing OData Services\Accessing OData Services\Bin\Debug\ApplicationIcon.png
+C:\Users\Leviathan\Desktop\Apress\Wp7 Recipes 2nd\Chapter 10\Projects\Accessing OData Services\Accessing OData Services\Bin\Debug\Background.png
+C:\Users\Leviathan\Desktop\Apress\Wp7 Recipes 2nd\Chapter 10\Projects\Accessing OData Services\Accessing OData Services\Bin\Debug\Accessing OData Services.dll
+C:\Users\Leviathan\Desktop\Apress\Wp7 Recipes 2nd\Chapter 10\Projects\Accessing OData Services\Accessing OData Services\Bin\Debug\Accessing OData Services.pdb
+C:\Users\Leviathan\Desktop\Apress\Wp7 Recipes 2nd\Chapter 10\Projects\Accessing OData Services\Accessing OData Services\Bin\Debug\AppManifest.xaml
+C:\Users\Leviathan\Desktop\Apress\Wp7 Recipes 2nd\Chapter 10\Projects\Accessing OData Services\Accessing OData Services\Bin\Debug\Accessing_OData_Services.xap
+C:\Users\Leviathan\Desktop\Apress\Wp7 Recipes 2nd\Chapter 10\Projects\Accessing OData Services\Accessing OData Services\Bin\Debug\System.Data.Services.Client.dll
+C:\Users\Leviathan\Desktop\Apress\Wp7 Recipes 2nd\Chapter 10\Projects\Accessing OData Services\Accessing OData Services\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Leviathan\Desktop\Apress\Wp7 Recipes 2nd\Chapter 10\Projects\Accessing OData Services\Accessing OData Services\obj\Debug\App.g.i.cs
+C:\Users\Leviathan\Desktop\Apress\Wp7 Recipes 2nd\Chapter 10\Projects\Accessing OData Services\Accessing OData Services\obj\Debug\MainPage.g.i.cs
+C:\Users\Leviathan\Desktop\Apress\Wp7 Recipes 2nd\Chapter 10\Projects\Accessing OData Services\Accessing OData Services\obj\Debug\Accessing OData Services.g.resources
+C:\Users\Leviathan\Desktop\Apress\Wp7 Recipes 2nd\Chapter 10\Projects\Accessing OData Services\Accessing OData Services\obj\Debug\Accessing OData Services.dll
+C:\Users\Leviathan\Desktop\Apress\Wp7 Recipes 2nd\Chapter 10\Projects\Accessing OData Services\Accessing OData Services\obj\Debug\Accessing OData Services.pdb
+C:\Users\Leviathan\Desktop\Apress\Wp7 Recipes 2nd\Chapter 10\Projects\Accessing OData Services\Accessing OData Services\obj\Debug\XapCacheFile.xml

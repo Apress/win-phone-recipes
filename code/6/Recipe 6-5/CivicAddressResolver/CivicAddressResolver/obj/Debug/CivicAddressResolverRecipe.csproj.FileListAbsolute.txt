@@ -1,0 +1,13 @@
+C:\Users\Leviathan\Desktop\Apress\Wp7 Recipes 2nd\Chapter 6\Projects\Recipe 6-5\CivicAddressResolver\CivicAddressResolver\Bin\Debug\ApplicationIcon.png
+C:\Users\Leviathan\Desktop\Apress\Wp7 Recipes 2nd\Chapter 6\Projects\Recipe 6-5\CivicAddressResolver\CivicAddressResolver\Bin\Debug\Background.png
+C:\Users\Leviathan\Desktop\Apress\Wp7 Recipes 2nd\Chapter 6\Projects\Recipe 6-5\CivicAddressResolver\CivicAddressResolver\Bin\Debug\CivicAddressResolverRecipe.dll
+C:\Users\Leviathan\Desktop\Apress\Wp7 Recipes 2nd\Chapter 6\Projects\Recipe 6-5\CivicAddressResolver\CivicAddressResolver\Bin\Debug\CivicAddressResolverRecipe.pdb
+C:\Users\Leviathan\Desktop\Apress\Wp7 Recipes 2nd\Chapter 6\Projects\Recipe 6-5\CivicAddressResolver\CivicAddressResolver\Bin\Debug\AppManifest.xaml
+C:\Users\Leviathan\Desktop\Apress\Wp7 Recipes 2nd\Chapter 6\Projects\Recipe 6-5\CivicAddressResolver\CivicAddressResolver\Bin\Debug\CivicAddressResolver.xap
+C:\Users\Leviathan\Desktop\Apress\Wp7 Recipes 2nd\Chapter 6\Projects\Recipe 6-5\CivicAddressResolver\CivicAddressResolver\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Leviathan\Desktop\Apress\Wp7 Recipes 2nd\Chapter 6\Projects\Recipe 6-5\CivicAddressResolver\CivicAddressResolver\obj\Debug\App.g.i.cs
+C:\Users\Leviathan\Desktop\Apress\Wp7 Recipes 2nd\Chapter 6\Projects\Recipe 6-5\CivicAddressResolver\CivicAddressResolver\obj\Debug\MainPage.g.i.cs
+C:\Users\Leviathan\Desktop\Apress\Wp7 Recipes 2nd\Chapter 6\Projects\Recipe 6-5\CivicAddressResolver\CivicAddressResolver\obj\Debug\CivicAddressResolverRecipe.g.resources
+C:\Users\Leviathan\Desktop\Apress\Wp7 Recipes 2nd\Chapter 6\Projects\Recipe 6-5\CivicAddressResolver\CivicAddressResolver\obj\Debug\CivicAddressResolverRecipe.dll
+C:\Users\Leviathan\Desktop\Apress\Wp7 Recipes 2nd\Chapter 6\Projects\Recipe 6-5\CivicAddressResolver\CivicAddressResolver\obj\Debug\CivicAddressResolverRecipe.pdb
+C:\Users\Leviathan\Desktop\Apress\Wp7 Recipes 2nd\Chapter 6\Projects\Recipe 6-5\CivicAddressResolver\CivicAddressResolver\obj\Debug\XapCacheFile.xml

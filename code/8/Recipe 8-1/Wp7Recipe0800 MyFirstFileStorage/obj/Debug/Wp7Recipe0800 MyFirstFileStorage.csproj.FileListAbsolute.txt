@@ -1,0 +1,15 @@
+C:\Users\Leviathan\Documents\Visual Studio 2010\Projects\Wp7Recipe0800 MyFirstFileStorage\Wp7Recipe0800 MyFirstFileStorage\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Leviathan\Documents\Visual Studio 2010\Projects\Wp7Recipe0800 MyFirstFileStorage\Wp7Recipe0800 MyFirstFileStorage\obj\Debug\App.g.i.cs
+C:\Users\Leviathan\Documents\Visual Studio 2010\Projects\Wp7Recipe0800 MyFirstFileStorage\Wp7Recipe0800 MyFirstFileStorage\obj\Debug\MainPage.g.i.cs
+C:\Users\Leviathan\Documents\Visual Studio 2010\Projects\Wp7Recipe0800 MyFirstFileStorage\Wp7Recipe0800 MyFirstFileStorage\obj\Debug\Wp7Recipe0800 MyFirstFileStorage.g.resources
+C:\Users\Leviathan\Documents\Visual Studio 2010\Projects\Wp7Recipe0800 MyFirstFileStorage\Wp7Recipe0800 MyFirstFileStorage\Bin\Debug\ApplicationIcon.png
+C:\Users\Leviathan\Documents\Visual Studio 2010\Projects\Wp7Recipe0800 MyFirstFileStorage\Wp7Recipe0800 MyFirstFileStorage\Bin\Debug\Background.png
+C:\Users\Leviathan\Documents\Visual Studio 2010\Projects\Wp7Recipe0800 MyFirstFileStorage\Wp7Recipe0800 MyFirstFileStorage\Bin\Debug\Wp7Recipe0800 MyFirstFileStorage.dll
+C:\Users\Leviathan\Documents\Visual Studio 2010\Projects\Wp7Recipe0800 MyFirstFileStorage\Wp7Recipe0800 MyFirstFileStorage\Bin\Debug\Wp7Recipe0800 MyFirstFileStorage.pdb
+C:\Users\Leviathan\Documents\Visual Studio 2010\Projects\Wp7Recipe0800 MyFirstFileStorage\Wp7Recipe0800 MyFirstFileStorage\Bin\Debug\AppManifest.xaml
+C:\Users\Leviathan\Documents\Visual Studio 2010\Projects\Wp7Recipe0800 MyFirstFileStorage\Wp7Recipe0800 MyFirstFileStorage\Bin\Debug\Wp7Recipe0800_MyFirstFileStorage.xap
+C:\Users\Leviathan\Documents\Visual Studio 2010\Projects\Wp7Recipe0800 MyFirstFileStorage\Wp7Recipe0800 MyFirstFileStorage\obj\Debug\Wp7Recipe0800 MyFirstFileStorage.dll
+C:\Users\Leviathan\Documents\Visual Studio 2010\Projects\Wp7Recipe0800 MyFirstFileStorage\Wp7Recipe0800 MyFirstFileStorage\obj\Debug\Wp7Recipe0800 MyFirstFileStorage.pdb
+C:\Users\Leviathan\Documents\Visual Studio 2010\Projects\Wp7Recipe0800 MyFirstFileStorage\Wp7Recipe0800 MyFirstFileStorage\obj\Debug\XapCacheFile.xml
+C:\Users\Leviathan\Documents\Visual Studio 2010\Projects\Wp7Recipe0800 MyFirstFileStorage\Wp7Recipe0800 MyFirstFileStorage\obj\Debug\Notes.g.i.cs
+C:\Users\Leviathan\Documents\Visual Studio 2010\Projects\Wp7Recipe0800 MyFirstFileStorage\Wp7Recipe0800 MyFirstFileStorage\Bin\Debug\icons\appbar.save.rest.png

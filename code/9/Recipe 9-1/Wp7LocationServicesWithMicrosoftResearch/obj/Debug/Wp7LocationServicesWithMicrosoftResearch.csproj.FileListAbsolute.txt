@@ -1,0 +1,26 @@
+c:\users\leviathan\documents\visual studio 2010\Projects\Wp7LocationServicesWithMicrosoftResearch\Wp7LocationServicesWithMicrosoftResearch\Bin\Debug\ApplicationIcon.png
+c:\users\leviathan\documents\visual studio 2010\Projects\Wp7LocationServicesWithMicrosoftResearch\Wp7LocationServicesWithMicrosoftResearch\Bin\Debug\Background.png
+c:\users\leviathan\documents\visual studio 2010\Projects\Wp7LocationServicesWithMicrosoftResearch\Wp7LocationServicesWithMicrosoftResearch\Bin\Debug\Wp7LocationServicesWithMicrosoftResearch.dll
+c:\users\leviathan\documents\visual studio 2010\Projects\Wp7LocationServicesWithMicrosoftResearch\Wp7LocationServicesWithMicrosoftResearch\Bin\Debug\Wp7LocationServicesWithMicrosoftResearch.pdb
+c:\users\leviathan\documents\visual studio 2010\Projects\Wp7LocationServicesWithMicrosoftResearch\Wp7LocationServicesWithMicrosoftResearch\Bin\Debug\AppManifest.xaml
+c:\users\leviathan\documents\visual studio 2010\Projects\Wp7LocationServicesWithMicrosoftResearch\Wp7LocationServicesWithMicrosoftResearch\Bin\Debug\Wp7LocationServicesWithMicrosoftResearch.xap
+c:\users\leviathan\documents\visual studio 2010\Projects\Wp7LocationServicesWithMicrosoftResearch\Wp7LocationServicesWithMicrosoftResearch\obj\Debug\ResolveAssemblyReference.cache
+c:\users\leviathan\documents\visual studio 2010\Projects\Wp7LocationServicesWithMicrosoftResearch\Wp7LocationServicesWithMicrosoftResearch\obj\Debug\App.g.i.cs
+c:\users\leviathan\documents\visual studio 2010\Projects\Wp7LocationServicesWithMicrosoftResearch\Wp7LocationServicesWithMicrosoftResearch\obj\Debug\MainPage.g.i.cs
+c:\users\leviathan\documents\visual studio 2010\Projects\Wp7LocationServicesWithMicrosoftResearch\Wp7LocationServicesWithMicrosoftResearch\obj\Debug\Wp7LocationServicesWithMicrosoftResearch.g.resources
+c:\users\leviathan\documents\visual studio 2010\Projects\Wp7LocationServicesWithMicrosoftResearch\Wp7LocationServicesWithMicrosoftResearch\obj\Debug\Wp7LocationServicesWithMicrosoftResearch.dll
+c:\users\leviathan\documents\visual studio 2010\Projects\Wp7LocationServicesWithMicrosoftResearch\Wp7LocationServicesWithMicrosoftResearch\obj\Debug\Wp7LocationServicesWithMicrosoftResearch.pdb
+c:\users\leviathan\documents\visual studio 2010\Projects\Wp7LocationServicesWithMicrosoftResearch\Wp7LocationServicesWithMicrosoftResearch\obj\Debug\XapCacheFile.xml
+C:\Users\Leviathan\Desktop\Code\9\Recipe 9-1\Wp7LocationServicesWithMicrosoftResearch\Bin\Debug\ApplicationIcon.png
+C:\Users\Leviathan\Desktop\Code\9\Recipe 9-1\Wp7LocationServicesWithMicrosoftResearch\Bin\Debug\Background.png
+C:\Users\Leviathan\Desktop\Code\9\Recipe 9-1\Wp7LocationServicesWithMicrosoftResearch\Bin\Debug\Wp7LocationServicesWithMicrosoftResearch.dll
+C:\Users\Leviathan\Desktop\Code\9\Recipe 9-1\Wp7LocationServicesWithMicrosoftResearch\Bin\Debug\Wp7LocationServicesWithMicrosoftResearch.pdb
+C:\Users\Leviathan\Desktop\Code\9\Recipe 9-1\Wp7LocationServicesWithMicrosoftResearch\Bin\Debug\AppManifest.xaml
+C:\Users\Leviathan\Desktop\Code\9\Recipe 9-1\Wp7LocationServicesWithMicrosoftResearch\Bin\Debug\Wp7LocationServicesWithMicrosoftResearch.xap
+C:\Users\Leviathan\Desktop\Code\9\Recipe 9-1\Wp7LocationServicesWithMicrosoftResearch\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Leviathan\Desktop\Code\9\Recipe 9-1\Wp7LocationServicesWithMicrosoftResearch\obj\Debug\App.g.i.cs
+C:\Users\Leviathan\Desktop\Code\9\Recipe 9-1\Wp7LocationServicesWithMicrosoftResearch\obj\Debug\MainPage.g.i.cs
+C:\Users\Leviathan\Desktop\Code\9\Recipe 9-1\Wp7LocationServicesWithMicrosoftResearch\obj\Debug\Wp7LocationServicesWithMicrosoftResearch.g.resources
+C:\Users\Leviathan\Desktop\Code\9\Recipe 9-1\Wp7LocationServicesWithMicrosoftResearch\obj\Debug\Wp7LocationServicesWithMicrosoftResearch.dll
+C:\Users\Leviathan\Desktop\Code\9\Recipe 9-1\Wp7LocationServicesWithMicrosoftResearch\obj\Debug\Wp7LocationServicesWithMicrosoftResearch.pdb
+C:\Users\Leviathan\Desktop\Code\9\Recipe 9-1\Wp7LocationServicesWithMicrosoftResearch\obj\Debug\XapCacheFile.xml

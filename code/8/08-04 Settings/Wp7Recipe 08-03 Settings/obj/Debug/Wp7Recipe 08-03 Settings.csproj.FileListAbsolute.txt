@@ -1,0 +1,21 @@
+c:\users\leviathan\documents\visual studio 2010\Projects\Wp7Recipe 08-03 Settings\Wp7Recipe 08-03 Settings\Bin\Debug\ApplicationIcon.png
+c:\users\leviathan\documents\visual studio 2010\Projects\Wp7Recipe 08-03 Settings\Wp7Recipe 08-03 Settings\Bin\Debug\Background.png
+c:\users\leviathan\documents\visual studio 2010\Projects\Wp7Recipe 08-03 Settings\Wp7Recipe 08-03 Settings\Bin\Debug\icons\appbar.feature.settings.rest.png
+c:\users\leviathan\documents\visual studio 2010\Projects\Wp7Recipe 08-03 Settings\Wp7Recipe 08-03 Settings\Bin\Debug\icons\appbar.save.rest.png
+c:\users\leviathan\documents\visual studio 2010\Projects\Wp7Recipe 08-03 Settings\Wp7Recipe 08-03 Settings\Bin\Debug\Wp7Recipe 08-03 Settings.dll
+c:\users\leviathan\documents\visual studio 2010\Projects\Wp7Recipe 08-03 Settings\Wp7Recipe 08-03 Settings\Bin\Debug\Wp7Recipe 08-03 Settings.pdb
+c:\users\leviathan\documents\visual studio 2010\Projects\Wp7Recipe 08-03 Settings\Wp7Recipe 08-03 Settings\Bin\Debug\AppManifest.xaml
+c:\users\leviathan\documents\visual studio 2010\Projects\Wp7Recipe 08-03 Settings\Wp7Recipe 08-03 Settings\Bin\Debug\Wp7Recipe_08_03_Settings.xap
+c:\users\leviathan\documents\visual studio 2010\Projects\Wp7Recipe 08-03 Settings\Wp7Recipe 08-03 Settings\Bin\Debug\Microsoft.Phone.Controls.Toolkit.dll
+c:\users\leviathan\documents\visual studio 2010\Projects\Wp7Recipe 08-03 Settings\Wp7Recipe 08-03 Settings\Bin\Debug\Microsoft.Phone.Controls.Toolkit.pdb
+c:\users\leviathan\documents\visual studio 2010\Projects\Wp7Recipe 08-03 Settings\Wp7Recipe 08-03 Settings\Bin\Debug\Microsoft.Phone.Controls.Toolkit.xml
+c:\users\leviathan\documents\visual studio 2010\Projects\Wp7Recipe 08-03 Settings\Wp7Recipe 08-03 Settings\obj\Debug\ResolveAssemblyReference.cache
+c:\users\leviathan\documents\visual studio 2010\Projects\Wp7Recipe 08-03 Settings\Wp7Recipe 08-03 Settings\obj\Debug\App.g.i.cs
+c:\users\leviathan\documents\visual studio 2010\Projects\Wp7Recipe 08-03 Settings\Wp7Recipe 08-03 Settings\obj\Debug\MainPage.g.i.cs
+c:\users\leviathan\documents\visual studio 2010\Projects\Wp7Recipe 08-03 Settings\Wp7Recipe 08-03 Settings\obj\Debug\Settings.g.i.cs
+c:\users\leviathan\documents\visual studio 2010\Projects\Wp7Recipe 08-03 Settings\Wp7Recipe 08-03 Settings\obj\Debug\Wp7Recipe 08-03 Settings.g.resources
+c:\users\leviathan\documents\visual studio 2010\Projects\Wp7Recipe 08-03 Settings\Wp7Recipe 08-03 Settings\obj\Debug\Wp7Recipe 08-03 Settings.dll
+c:\users\leviathan\documents\visual studio 2010\Projects\Wp7Recipe 08-03 Settings\Wp7Recipe 08-03 Settings\obj\Debug\Wp7Recipe 08-03 Settings.pdb
+c:\users\leviathan\documents\visual studio 2010\Projects\Wp7Recipe 08-03 Settings\Wp7Recipe 08-03 Settings\obj\Debug\XapCacheFile.xml
+c:\users\leviathan\documents\visual studio 2010\Projects\Wp7Recipe 08-03 Settings\Wp7Recipe 08-03 Settings\Bin\Debug\Microsoft.Phone.Controls.dll
+c:\users\leviathan\documents\visual studio 2010\Projects\Wp7Recipe 08-03 Settings\Wp7Recipe 08-03 Settings\Bin\Debug\Microsoft.Phone.Controls.xml

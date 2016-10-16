@@ -1,0 +1,13 @@
+C:\Users\Leviathan\Desktop\Apress\Wp7 Recipes 2nd\Chapter 6\Projects\Recipe 6-7\AugmentedReality\AugmentedReality\Bin\Debug\ApplicationIcon.png
+C:\Users\Leviathan\Desktop\Apress\Wp7 Recipes 2nd\Chapter 6\Projects\Recipe 6-7\AugmentedReality\AugmentedReality\Bin\Debug\Background.png
+C:\Users\Leviathan\Desktop\Apress\Wp7 Recipes 2nd\Chapter 6\Projects\Recipe 6-7\AugmentedReality\AugmentedReality\Bin\Debug\AugmentedReality.dll
+C:\Users\Leviathan\Desktop\Apress\Wp7 Recipes 2nd\Chapter 6\Projects\Recipe 6-7\AugmentedReality\AugmentedReality\Bin\Debug\AugmentedReality.pdb
+C:\Users\Leviathan\Desktop\Apress\Wp7 Recipes 2nd\Chapter 6\Projects\Recipe 6-7\AugmentedReality\AugmentedReality\Bin\Debug\AppManifest.xaml
+C:\Users\Leviathan\Desktop\Apress\Wp7 Recipes 2nd\Chapter 6\Projects\Recipe 6-7\AugmentedReality\AugmentedReality\Bin\Debug\AugmentedReality.xap
+C:\Users\Leviathan\Desktop\Apress\Wp7 Recipes 2nd\Chapter 6\Projects\Recipe 6-7\AugmentedReality\AugmentedReality\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Leviathan\Desktop\Apress\Wp7 Recipes 2nd\Chapter 6\Projects\Recipe 6-7\AugmentedReality\AugmentedReality\obj\Debug\App.g.i.cs
+C:\Users\Leviathan\Desktop\Apress\Wp7 Recipes 2nd\Chapter 6\Projects\Recipe 6-7\AugmentedReality\AugmentedReality\obj\Debug\MainPage.g.i.cs
+C:\Users\Leviathan\Desktop\Apress\Wp7 Recipes 2nd\Chapter 6\Projects\Recipe 6-7\AugmentedReality\AugmentedReality\obj\Debug\AugmentedReality.g.resources
+C:\Users\Leviathan\Desktop\Apress\Wp7 Recipes 2nd\Chapter 6\Projects\Recipe 6-7\AugmentedReality\AugmentedReality\obj\Debug\AugmentedReality.dll
+C:\Users\Leviathan\Desktop\Apress\Wp7 Recipes 2nd\Chapter 6\Projects\Recipe 6-7\AugmentedReality\AugmentedReality\obj\Debug\AugmentedReality.pdb
+C:\Users\Leviathan\Desktop\Apress\Wp7 Recipes 2nd\Chapter 6\Projects\Recipe 6-7\AugmentedReality\AugmentedReality\obj\Debug\XapCacheFile.xml

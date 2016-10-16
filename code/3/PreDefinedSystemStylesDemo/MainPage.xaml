@@ -1,0 +1,210 @@
+﻿<phone:PhoneApplicationPage 
+    x:Class="PreDefinedSystemStylesDemo.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:phone="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone"
+    xmlns:shell="clr-namespace:Microsoft.Phone.Shell;assembly=Microsoft.Phone"
+    xmlns:controls="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone.Controls"    
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d" d:DesignWidth="480" d:DesignHeight="768"
+    FontFamily="{StaticResource PhoneFontFamilyNormal}"
+    FontSize="{StaticResource PhoneFontSizeNormal}"
+    Foreground="{StaticResource PhoneForegroundBrush}"
+    SupportedOrientations="Portrait" Orientation="Portrait"
+    shell:SystemTray.IsVisible="True">
+
+    <Grid x:Name="LayoutRoot" Background="YellowGreen">
+        <controls:Pivot Title="Predefined styles">
+            <controls:PivotItem Header="Brushes">
+                <ListBox Margin="0,0,-12,0">
+                    <StackPanel Orientation="Vertical" Margin="0,0,0,17">
+                        <StackPanel Orientation="Horizontal" Margin="0,0,5,5">
+                            <Rectangle Width="100" Height="100" Fill="{StaticResource PhoneAccentBrush}" />
+                            <TextBlock Margin="5,0,0,0" Text="PhoneAccentBrush" FontSize="{StaticResource PhoneFontSizeNormal}" />
+                        </StackPanel>
+                        <StackPanel Orientation="Horizontal" Margin="0,0,5,5">
+                            <Rectangle Width="100" Height="100" Fill="{StaticResource PhoneForegroundBrush}" />
+                            <TextBlock Margin="5,0,0,0" Text="PhoneForegroundBrush" FontSize="{StaticResource PhoneFontSizeNormal}" />
+                        </StackPanel>
+                        <StackPanel Orientation="Horizontal" Margin="0,0,5,5">
+                            <Rectangle Width="100" Height="100" Fill="{StaticResource PhoneBackgroundBrush}" />
+                            <TextBlock Margin="5,0,0,0" Text="PhoneBackgroundBrush" FontSize="{StaticResource PhoneFontSizeNormal}" />
+                        </StackPanel>
+                        <StackPanel Orientation="Horizontal" Margin="0,0,5,5">
+                            <Rectangle Width="100" Height="100" Fill="{StaticResource PhoneContrastBackgroundBrush}" />
+                            <TextBlock Margin="5,0,0,0" Text="PhoneContrastBackgroundBrush" FontSize="{StaticResource PhoneFontSizeNormal}" />
+                        </StackPanel>
+                        <StackPanel Orientation="Horizontal" Margin="0,0,5,5">
+                            <Rectangle Width="100" Height="100" Fill="{StaticResource PhoneContrastForegroundBrush}" />
+                            <TextBlock Margin="5,0,0,0" Text="PhoneContrastForegroundBrush" FontSize="{StaticResource PhoneFontSizeNormal}" />
+                        </StackPanel>
+                        <StackPanel Orientation="Horizontal" Margin="0,0,5,5">
+                            <Rectangle Width="100" Height="100" Fill="{StaticResource PhoneDisabledBrush}" />
+                            <TextBlock Margin="5,0,0,0" Text="PhoneDisabledBrush" FontSize="{StaticResource PhoneFontSizeNormal}" />
+                        </StackPanel>
+                        <StackPanel Orientation="Horizontal" Margin="0,0,5,5">
+                            <Rectangle Width="100" Height="100" Fill="{StaticResource PhoneSubtleBrush}" />
+                            <TextBlock Margin="5,0,0,0" Text="PhoneSubtleBrush" FontSize="{StaticResource PhoneFontSizeNormal}" />
+                        </StackPanel>
+                        <StackPanel Orientation="Horizontal" Margin="0,0,5,5">
+                            <Rectangle Width="100" Height="100" Fill="{StaticResource PhoneBorderBrush}" />
+                            <TextBlock Margin="5,0,0,0" Text="PhoneBorderBrush" FontSize="{StaticResource PhoneFontSizeNormal}" />
+                        </StackPanel>
+                        <StackPanel Orientation="Horizontal" Margin="0,0,5,5">
+                            <Rectangle Width="100" Height="100" Fill="{StaticResource TransparentBrush}" />
+                            <TextBlock Margin="5,0,0,0" Text="TransparentBrush" FontSize="{StaticResource PhoneFontSizeNormal}" />
+                        </StackPanel>
+                        <StackPanel Orientation="Horizontal" Margin="0,0,5,5">
+                            <Rectangle Width="100" Height="100" Fill="{StaticResource PhoneSemitransparentBrush}" />
+                            <TextBlock Margin="5,0,0,0" Text="PhoneSemitransparentBrush" FontSize="{StaticResource PhoneFontSizeNormal}" />
+                        </StackPanel>
+                        <StackPanel Orientation="Horizontal" Margin="0,0,5,5">
+                            <Rectangle Width="100" Height="100" Fill="{StaticResource PhoneChromeBrush}" />
+                            <TextBlock Margin="5,0,0,0" Text="PhoneChromeBrush" FontSize="{StaticResource PhoneFontSizeNormal}" />
+                        </StackPanel>
+                    </StackPanel>
+                </ListBox>
+            </controls:PivotItem>
+            <controls:PivotItem Header="TextBoxes">
+                <ListBox Margin="0,0,-12,0">
+                    <StackPanel Orientation="Vertical" Margin="0,0,0,17">
+                        <TextBox BorderBrush="{StaticResource PhoneTextBoxEditBorderBrush}"
+                                    Background="{StaticResource PhoneTextBoxEditBackgroundBrush}"
+                                    Foreground="{StaticResource PhoneTextBoxForegroundBrush}"
+                                    SelectionForeground="{StaticResource PhoneTextBoxSelectionForegroundBrush}" />
+                        <TextBlock TextWrapping="Wrap" Text="TextBox with PhoneTextBoxEditBorderBrush, PhoneTextBoxEditBackgroundBrush, 
+                                   PhoneTextCaretBrush, PhoneTextBoxForegroundBrush, and PhoneTextBoxSelectionForegroundBrush styles." />
+                    </StackPanel>
+                    <StackPanel Orientation="Vertical" Margin="0,0,0,17">
+                        <TextBox IsReadOnly="True" Background="{StaticResource PhoneTextBoxReadOnlyBrush}" Text="I'm a read-only textbox"/>
+                        <TextBlock TextWrapping="Wrap" Text="Read only TextBox with PhoneTextBoxReadOnlyBrush" />
+                    </StackPanel>                    
+                </ListBox>
+            </controls:PivotItem>
+            <controls:PivotItem Header="Fonts">
+                <ListBox Margin="0,0,-12,0">
+                    <StackPanel Orientation="Vertical" Margin="0,0,0,17">
+                        <TextBlock FontFamily="{StaticResource PhoneFontFamilyNormal}" 
+                                   FontSize="{StaticResource PhoneFontSizeSmall}" 
+                                   Text="PhoneFontFamilyNormal with PhoneFontSizeSmall" />
+                        <TextBlock FontFamily="{StaticResource PhoneFontFamilyNormal}" 
+                                   FontSize="{StaticResource PhoneFontSizeNormal}" 
+                                   Text="PhoneFontFamilyNormal with PhoneFontSizeNormal" />
+                        <TextBlock FontFamily="{StaticResource PhoneFontFamilyNormal}" 
+                                   FontSize="{StaticResource PhoneFontSizeMedium}" 
+                                   Text="PhoneFontFamilyNormal with PhoneFontSizeMedium" />
+                        <TextBlock FontFamily="{StaticResource PhoneFontFamilyNormal}" 
+                                   FontSize="{StaticResource PhoneFontSizeMediumLarge}" 
+                                   Text="PhoneFontFamilyNormal with PhoneFontSizeMediumLarge" />
+                        <TextBlock FontFamily="{StaticResource PhoneFontFamilyNormal}" 
+                                   FontSize="{StaticResource PhoneFontSizeLarge}" 
+                                   Text="PhoneFontFamilyNormal with PhoneFontSizeLarge" />
+                        <TextBlock FontFamily="{StaticResource PhoneFontFamilyNormal}" 
+                                   FontSize="{StaticResource PhoneFontSizeExtraLarge}" 
+                                   Text="PhoneFontFamilyNormal with PhoneFontSizeExtraLarge" />
+                        <TextBlock FontFamily="{StaticResource PhoneFontFamilyNormal}" 
+                                   FontSize="{StaticResource PhoneFontSizeExtraExtraLarge}" 
+                                   Text="PhoneFontFamilyNormal with PhoneFontSizeExtraExtraLarge" />
+                        <TextBlock FontFamily="{StaticResource PhoneFontFamilyNormal}" 
+                                   FontSize="{StaticResource PhoneFontSizeHuge}" 
+                                   Text="PhoneFontFamilyNormal with PhoneFontSizeHuge" />
+
+                        <TextBlock FontFamily="{StaticResource PhoneFontFamilyLight}" 
+                                   FontSize="{StaticResource PhoneFontSizeSmall}" 
+                                   Text="PhoneFontFamilyLight with PhoneFontSizeSmall" />
+                        <TextBlock FontFamily="{StaticResource PhoneFontFamilyLight}" 
+                                   FontSize="{StaticResource PhoneFontSizeNormal}" 
+                                   Text="PhoneFontFamilyLight with PhoneFontSizeNormal" />
+                        <TextBlock FontFamily="{StaticResource PhoneFontFamilyLight}" 
+                                   FontSize="{StaticResource PhoneFontSizeMedium}" 
+                                   Text="PhoneFontFamilyLight with PhoneFontSizeMedium" />
+                        <TextBlock FontFamily="{StaticResource PhoneFontFamilyLight}" 
+                                   FontSize="{StaticResource PhoneFontSizeMediumLarge}" 
+                                   Text="PhoneFontFamilyLight with PhoneFontSizeMediumLarge" />
+                        <TextBlock FontFamily="{StaticResource PhoneFontFamilyLight}" 
+                                   FontSize="{StaticResource PhoneFontSizeLarge}" 
+                                   Text="PhoneFontFamilyLight with PhoneFontSizeLarge" />
+                        <TextBlock FontFamily="{StaticResource PhoneFontFamilyLight}" 
+                                   FontSize="{StaticResource PhoneFontSizeExtraLarge}" 
+                                   Text="PhoneFontFamilyLight with PhoneFontSizeExtraLarge" />
+                        <TextBlock FontFamily="{StaticResource PhoneFontFamilyLight}" 
+                                   FontSize="{StaticResource PhoneFontSizeExtraExtraLarge}" 
+                                   Text="PhoneFontFamilyLight with PhoneFontSizeExtraExtraLarge" />
+                        <TextBlock FontFamily="{StaticResource PhoneFontFamilyLight}" 
+                                   FontSize="{StaticResource PhoneFontSizeHuge}" 
+                                   Text="PhoneFontFamilyLight with PhoneFontSizeHuge" />
+
+                        <TextBlock FontFamily="{StaticResource PhoneFontFamilySemiLight}" 
+                                   FontSize="{StaticResource PhoneFontSizeSmall}" 
+                                   Text="PhoneFontFamilySemiLight with PhoneFontSizeSmall" />
+                        <TextBlock FontFamily="{StaticResource PhoneFontFamilySemiLight}" 
+                                   FontSize="{StaticResource PhoneFontSizeNormal}" 
+                                   Text="PhoneFontFamilySemiLight with PhoneFontSizeNormal" />
+                        <TextBlock FontFamily="{StaticResource PhoneFontFamilySemiLight}" 
+                                   FontSize="{StaticResource PhoneFontSizeMedium}" 
+                                   Text="PhoneFontFamilySemiLight with PhoneFontSizeMedium" />
+                        <TextBlock FontFamily="{StaticResource PhoneFontFamilySemiLight}" 
+                                   FontSize="{StaticResource PhoneFontSizeMediumLarge}" 
+                                   Text="PhoneFontFamilySemiLight with PhoneFontSizeMediumLarge" />
+                        <TextBlock FontFamily="{StaticResource PhoneFontFamilySemiLight}" 
+                                   FontSize="{StaticResource PhoneFontSizeLarge}" 
+                                   Text="PhoneFontFamilySemiLight with PhoneFontSizeLarge" />
+                        <TextBlock FontFamily="{StaticResource PhoneFontFamilySemiLight}" 
+                                   FontSize="{StaticResource PhoneFontSizeExtraLarge}" 
+                                   Text="PhoneFontFamilySemiLight with PhoneFontSizeExtraLarge" />
+                        <TextBlock FontFamily="{StaticResource PhoneFontFamilySemiLight}" 
+                                   FontSize="{StaticResource PhoneFontSizeExtraExtraLarge}" 
+                                   Text="PhoneFontFamilySemiLight with PhoneFontSizeExtraExtraLarge" />
+                        <TextBlock FontFamily="{StaticResource PhoneFontFamilySemiLight}" 
+                                   FontSize="{StaticResource PhoneFontSizeHuge}" 
+                                   Text="PhoneFontFamilySemiLight with PhoneFontSizeHuge" />
+
+                        <TextBlock FontFamily="{StaticResource PhoneFontFamilySemiBold}" 
+                                   FontSize="{StaticResource PhoneFontSizeSmall}" 
+                                   Text="PhoneFontFamilySemiBold with PhoneFontSizeSmall" />
+                        <TextBlock FontFamily="{StaticResource PhoneFontFamilySemiBold}" 
+                                   FontSize="{StaticResource PhoneFontSizeNormal}" 
+                                   Text="PhoneFontFamilySemiBold with PhoneFontSizeNormal" />
+                        <TextBlock FontFamily="{StaticResource PhoneFontFamilySemiBold}" 
+                                   FontSize="{StaticResource PhoneFontSizeMedium}" 
+                                   Text="PhoneFontFamilySemiBold with PhoneFontSizeMedium" />
+                        <TextBlock FontFamily="{StaticResource PhoneFontFamilySemiBold}" 
+                                   FontSize="{StaticResource PhoneFontSizeMediumLarge}" 
+                                   Text="PhoneFontFamilySemiBold with PhoneFontSizeMediumLarge" />
+                        <TextBlock FontFamily="{StaticResource PhoneFontFamilySemiBold}" 
+                                   FontSize="{StaticResource PhoneFontSizeLarge}" 
+                                   Text="PhoneFontFamilySemiBold with PhoneFontSizeLarge" />
+                        <TextBlock FontFamily="{StaticResource PhoneFontFamilySemiBold}" 
+                                   FontSize="{StaticResource PhoneFontSizeExtraLarge}" 
+                                   Text="PhoneFontFamilySemiBold with PhoneFontSizeExtraLarge" />
+                        <TextBlock FontFamily="{StaticResource PhoneFontFamilySemiBold}" 
+                                   FontSize="{StaticResource PhoneFontSizeExtraExtraLarge}" 
+                                   Text="PhoneFontFamilySemiBold with PhoneFontSizeExtraExtraLarge" />
+                        <TextBlock FontFamily="{StaticResource PhoneFontFamilySemiBold}" 
+                                   FontSize="{StaticResource PhoneFontSizeHuge}" 
+                                   Text="PhoneFontFamilySemiBold with PhoneFontSizeHuge" />
+
+                    </StackPanel>
+                </ListBox>
+            </controls:PivotItem>
+            <controls:PivotItem Header="Text Styles">
+                <ListBox Margin="0,0,-12,0">
+                    <StackPanel Orientation="Vertical" Margin="0,0,0,17">
+                        <TextBlock Style="{StaticResource PhoneTextBlockBase}" Text="PhoneTextBlockBase" />
+                        <TextBlock Style="{StaticResource PhoneTextNormalStyle}" Text="PhoneTextNormalStyle" />
+                        <TextBlock Style="{StaticResource PhoneTextTitle1Style}" Text="PhoneTextTitle1Style" />
+                        <TextBlock Style="{StaticResource PhoneTextTitle2Style}" Text="PhoneTextTitle2Style" />
+                        <TextBlock Style="{StaticResource PhoneTextTitle3Style}" Text="PhoneTextTitle3Style" />
+                        <TextBlock Style="{StaticResource PhoneTextLargeStyle}" Text="PhoneTextLargeStyle" />
+                        <TextBlock Style="{StaticResource PhoneTextExtraLargeStyle}" Text="PhoneTextExtraLargeStyle" />
+                        <TextBlock Style="{StaticResource PhoneTextGroupHeaderStyle}" Text="PhoneTextGroupHeaderStyle" />
+                        <TextBlock Style="{StaticResource PhoneTextSmallStyle}" Text="PhoneTextSmallStyle" />
+                        <TextBlock Style="{StaticResource PhoneTextContrastStyle}" Text="PhoneTextContrastStyle" />
+                        <TextBlock Style="{StaticResource PhoneTextAccentStyle}" Text="PhoneTextAccentStyle" />
+                    </StackPanel>
+                </ListBox>
+            </controls:PivotItem>
+        </controls:Pivot>
+    </Grid>
+</phone:PhoneApplicationPage>

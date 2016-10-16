@@ -1,0 +1,12 @@
+c:\users\leviathan\documents\visual studio 2010\Projects\SismoPhone\SismoPhone\SismoPhone\bin\Windows Phone\Debug\SismoPhone.dll
+c:\users\leviathan\documents\visual studio 2010\Projects\SismoPhone\SismoPhone\SismoPhone\bin\Windows Phone\Debug\SismoPhone.pdb
+c:\users\leviathan\documents\visual studio 2010\Projects\SismoPhone\SismoPhone\SismoPhone\obj\Windows Phone\Debug\ResolveAssemblyReference.cache
+c:\users\leviathan\documents\visual studio 2010\Projects\SismoPhone\SismoPhone\SismoPhone\obj\Windows Phone\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+c:\users\leviathan\documents\visual studio 2010\Projects\SismoPhone\SismoPhone\SismoPhone\obj\Windows Phone\Debug\SismoPhone.dll
+c:\users\leviathan\documents\visual studio 2010\Projects\SismoPhone\SismoPhone\SismoPhone\obj\Windows Phone\Debug\SismoPhone.pdb
+c:\users\leviathan\documents\visual studio 2010\Projects\SismoPhone\SismoPhone\SismoPhone\bin\Windows Phone\Debug\AppManifest.xaml
+c:\users\leviathan\documents\visual studio 2010\Projects\SismoPhone\SismoPhone\SismoPhone\obj\Windows Phone\Debug\WMAppManifest.xml.g
+c:\users\leviathan\documents\visual studio 2010\Projects\SismoPhone\SismoPhone\SismoPhone\obj\Windows Phone\Debug\WMAppManifest.xml
+bin\Windows Phone\Debug\GameThumbnail.png
+c:\users\leviathan\documents\visual studio 2010\Projects\SismoPhone\SismoPhone\SismoPhone\bin\Windows Phone\Debug\SismoPhone.xap
+c:\users\leviathan\documents\visual studio 2010\Projects\SismoPhone\SismoPhone\SismoPhone\obj\Windows Phone\Debug\XapCacheFile.xml

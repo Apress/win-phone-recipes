@@ -1,0 +1,20 @@
+﻿<configuration>
+    <system.serviceModel>
+        <bindings>
+            <basicHttpBinding>
+                <binding name="TerraServiceSoap" 
+                         maxBufferSize="2147483647" 
+                         maxReceivedMessageSize="2147483647"
+                         receiveTimeout="00:10:00"
+                         >
+                    <security mode="None" />
+                </binding>
+            </basicHttpBinding>
+        </bindings>
+        <client>
+            <endpoint address="http://msrmaps.com/TerraService2.asmx" binding="basicHttpBinding"
+                bindingConfiguration="TerraServiceSoap" contract="TerraService.TerraServiceSoap"
+                name="TerraServiceSoap"  />
+        </client>
+    </system.serviceModel>
+</configuration>

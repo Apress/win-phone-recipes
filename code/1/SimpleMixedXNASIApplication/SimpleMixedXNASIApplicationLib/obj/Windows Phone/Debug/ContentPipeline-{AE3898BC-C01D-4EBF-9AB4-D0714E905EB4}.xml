@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{AE3898BC-C01D-4EBF-9AB4-D0714E905EB4}</ContentProjectGUID>
+      <TargetPlatform>WindowsPhone</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\Ferracchiati\Documents\Apress\Windows Phone 7 Recipes\MangoUpdate\code\Chapter1\SimpleMixedXNASIApplication\SimpleMixedXNASIApplicationLibContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Ferracchiati\Documents\Apress\Windows Phone 7 Recipes\MangoUpdate\code\Chapter1\SimpleMixedXNASIApplication\SimpleMixedXNASIApplicationLib\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Ferracchiati\Documents\Apress\Windows Phone 7 Recipes\MangoUpdate\code\Chapter1\SimpleMixedXNASIApplication\SimpleMixedXNASIApplicationLib\obj\Windows Phone\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Ferracchiati\Documents\Apress\Windows Phone 7 Recipes\MangoUpdate\code\Chapter1\SimpleMixedXNASIApplication\SimpleMixedXNASIApplicationLib\bin\Windows Phone\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2011-09-01T17:02:31.8966661+02:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

@@ -1,0 +1,30 @@
+C:\Users\Leviathan\documents\visual studio 2010\Projects\Wp7LocationServiceRecipe\Wp7LocationServiceRecipe\Bin\Debug\ApplicationIcon.png
+C:\Users\Leviathan\documents\visual studio 2010\Projects\Wp7LocationServiceRecipe\Wp7LocationServiceRecipe\Bin\Debug\Background.png
+C:\Users\Leviathan\documents\visual studio 2010\Projects\Wp7LocationServiceRecipe\Wp7LocationServiceRecipe\Bin\Debug\Wp7LocationServiceRecipe.dll
+C:\Users\Leviathan\documents\visual studio 2010\Projects\Wp7LocationServiceRecipe\Wp7LocationServiceRecipe\Bin\Debug\Wp7LocationServiceRecipe.pdb
+C:\Users\Leviathan\documents\visual studio 2010\Projects\Wp7LocationServiceRecipe\Wp7LocationServiceRecipe\Bin\Debug\AppManifest.xaml
+C:\Users\Leviathan\documents\visual studio 2010\Projects\Wp7LocationServiceRecipe\Wp7LocationServiceRecipe\Bin\Debug\Wp7LocationServiceRecipe.xap
+C:\Users\Leviathan\documents\visual studio 2010\Projects\Wp7LocationServiceRecipe\Wp7LocationServiceRecipe\Bin\Debug\Microsoft.Phone.Controls.Maps.dll
+C:\Users\Leviathan\documents\visual studio 2010\Projects\Wp7LocationServiceRecipe\Wp7LocationServiceRecipe\Bin\Debug\Microsoft.Phone.Controls.Maps.xml
+C:\Users\Leviathan\documents\visual studio 2010\Projects\Wp7LocationServiceRecipe\Wp7LocationServiceRecipe\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Leviathan\documents\visual studio 2010\Projects\Wp7LocationServiceRecipe\Wp7LocationServiceRecipe\obj\Debug\App.g.i.cs
+C:\Users\Leviathan\documents\visual studio 2010\Projects\Wp7LocationServiceRecipe\Wp7LocationServiceRecipe\obj\Debug\MainPage.g.i.cs
+C:\Users\Leviathan\documents\visual studio 2010\Projects\Wp7LocationServiceRecipe\Wp7LocationServiceRecipe\obj\Debug\Wp7LocationServiceRecipe.g.resources
+C:\Users\Leviathan\documents\visual studio 2010\Projects\Wp7LocationServiceRecipe\Wp7LocationServiceRecipe\obj\Debug\Wp7LocationServiceRecipe.dll
+C:\Users\Leviathan\documents\visual studio 2010\Projects\Wp7LocationServiceRecipe\Wp7LocationServiceRecipe\obj\Debug\Wp7LocationServiceRecipe.pdb
+C:\Users\Leviathan\documents\visual studio 2010\Projects\Wp7LocationServiceRecipe\Wp7LocationServiceRecipe\obj\Debug\XapCacheFile.xml
+C:\Users\Leviathan\Desktop\Apress\Wp7 Recipes 1st\Source code\9781430233718\other_Code\Code\Ch 06\Recipe 6-3  6-5\Wp7LocationServiceRecipe\Bin\Debug\ApplicationIcon.png
+C:\Users\Leviathan\Desktop\Apress\Wp7 Recipes 1st\Source code\9781430233718\other_Code\Code\Ch 06\Recipe 6-3  6-5\Wp7LocationServiceRecipe\Bin\Debug\Background.png
+C:\Users\Leviathan\Desktop\Apress\Wp7 Recipes 1st\Source code\9781430233718\other_Code\Code\Ch 06\Recipe 6-3  6-5\Wp7LocationServiceRecipe\Bin\Debug\Wp7LocationServiceRecipe.dll
+C:\Users\Leviathan\Desktop\Apress\Wp7 Recipes 1st\Source code\9781430233718\other_Code\Code\Ch 06\Recipe 6-3  6-5\Wp7LocationServiceRecipe\Bin\Debug\Wp7LocationServiceRecipe.pdb
+C:\Users\Leviathan\Desktop\Apress\Wp7 Recipes 1st\Source code\9781430233718\other_Code\Code\Ch 06\Recipe 6-3  6-5\Wp7LocationServiceRecipe\Bin\Debug\AppManifest.xaml
+C:\Users\Leviathan\Desktop\Apress\Wp7 Recipes 1st\Source code\9781430233718\other_Code\Code\Ch 06\Recipe 6-3  6-5\Wp7LocationServiceRecipe\Bin\Debug\Wp7LocationServiceRecipe.xap
+C:\Users\Leviathan\Desktop\Apress\Wp7 Recipes 1st\Source code\9781430233718\other_Code\Code\Ch 06\Recipe 6-3  6-5\Wp7LocationServiceRecipe\Bin\Debug\Microsoft.Phone.Controls.Maps.dll
+C:\Users\Leviathan\Desktop\Apress\Wp7 Recipes 1st\Source code\9781430233718\other_Code\Code\Ch 06\Recipe 6-3  6-5\Wp7LocationServiceRecipe\Bin\Debug\Microsoft.Phone.Controls.Maps.xml
+C:\Users\Leviathan\Desktop\Apress\Wp7 Recipes 1st\Source code\9781430233718\other_Code\Code\Ch 06\Recipe 6-3  6-5\Wp7LocationServiceRecipe\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Leviathan\Desktop\Apress\Wp7 Recipes 1st\Source code\9781430233718\other_Code\Code\Ch 06\Recipe 6-3  6-5\Wp7LocationServiceRecipe\obj\Debug\App.g.i.cs
+C:\Users\Leviathan\Desktop\Apress\Wp7 Recipes 1st\Source code\9781430233718\other_Code\Code\Ch 06\Recipe 6-3  6-5\Wp7LocationServiceRecipe\obj\Debug\MainPage.g.i.cs
+C:\Users\Leviathan\Desktop\Apress\Wp7 Recipes 1st\Source code\9781430233718\other_Code\Code\Ch 06\Recipe 6-3  6-5\Wp7LocationServiceRecipe\obj\Debug\Wp7LocationServiceRecipe.g.resources
+C:\Users\Leviathan\Desktop\Apress\Wp7 Recipes 1st\Source code\9781430233718\other_Code\Code\Ch 06\Recipe 6-3  6-5\Wp7LocationServiceRecipe\obj\Debug\Wp7LocationServiceRecipe.dll
+C:\Users\Leviathan\Desktop\Apress\Wp7 Recipes 1st\Source code\9781430233718\other_Code\Code\Ch 06\Recipe 6-3  6-5\Wp7LocationServiceRecipe\obj\Debug\Wp7LocationServiceRecipe.pdb
+C:\Users\Leviathan\Desktop\Apress\Wp7 Recipes 1st\Source code\9781430233718\other_Code\Code\Ch 06\Recipe 6-3  6-5\Wp7LocationServiceRecipe\obj\Debug\XapCacheFile.xml

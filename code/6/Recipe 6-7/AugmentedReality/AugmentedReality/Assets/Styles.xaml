@@ -1,0 +1,11 @@
+﻿<ResourceDictionary x:Name="Styles"
+	xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" 
+	xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+	
+	<ImageBrush x:Key="LightningBrush" ImageSource="../Images/Lightning.png" Stretch="Fill"/>
+    <ImageBrush x:Key="SunBrush" ImageSource="../Images/Sun.png" Stretch="Fill"/>
+	<LinearGradientBrush x:Key="FogBrush" EndPoint="0.5,1" StartPoint="0.5,0">
+							<GradientStop Color="#67393939"/>
+							<GradientStop Color="#66FFFFFF" Offset="1"/>
+						</LinearGradientBrush>
+</ResourceDictionary>

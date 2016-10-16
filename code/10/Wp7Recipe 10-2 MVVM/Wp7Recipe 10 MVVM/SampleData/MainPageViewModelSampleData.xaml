@@ -1,0 +1,5 @@
+<Wp7Recipe_10_2_MVVM_ViewModels:MainPageViewModel xmlns:Wp7Recipe_10_2_MVVM_ViewModels="clr-namespace:Wp7Recipe_10_2_MVVM.ViewModels" xmlns:System="clr-namespace:System;assembly=mscorlib" ApplicationName="Class maecenas aliquam" Date="03/24/2011 01:45:52" IsInDesignMode="True" IsInDesignModeStatic="False" Motivation="Integer vestibulum praesent accumsan" PageName="Aenean quisque vivamus curae">
+	<Wp7Recipe_10_2_MVVM_ViewModels:MainPageViewModel.Amount>
+		<System:Decimal/>
+	</Wp7Recipe_10_2_MVVM_ViewModels:MainPageViewModel.Amount>
+</Wp7Recipe_10_2_MVVM_ViewModels:MainPageViewModel>

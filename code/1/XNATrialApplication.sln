@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XNATrialApplication", "XNATrialApplication\XNATrialApplication\XNATrialApplication.csproj", "{6C87FC54-D5AE-4522-8050-7BADA16B8EE4}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "XNATrialApplicationContent", "XNATrialApplication\XNATrialApplicationContent\XNATrialApplicationContent.contentproj", "{93D978EF-07A6-4445-8CE6-FA2673C02889}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Windows Phone = Debug|Windows Phone
+		Release|Windows Phone = Release|Windows Phone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6C87FC54-D5AE-4522-8050-7BADA16B8EE4}.Debug|Windows Phone.ActiveCfg = Debug|Windows Phone
+		{6C87FC54-D5AE-4522-8050-7BADA16B8EE4}.Debug|Windows Phone.Build.0 = Debug|Windows Phone
+		{6C87FC54-D5AE-4522-8050-7BADA16B8EE4}.Debug|Windows Phone.Deploy.0 = Debug|Windows Phone
+		{6C87FC54-D5AE-4522-8050-7BADA16B8EE4}.Release|Windows Phone.ActiveCfg = Release|Windows Phone
+		{6C87FC54-D5AE-4522-8050-7BADA16B8EE4}.Release|Windows Phone.Build.0 = Release|Windows Phone
+		{6C87FC54-D5AE-4522-8050-7BADA16B8EE4}.Release|Windows Phone.Deploy.0 = Release|Windows Phone
+		{93D978EF-07A6-4445-8CE6-FA2673C02889}.Debug|Windows Phone.ActiveCfg = Debug|Windows Phone
+		{93D978EF-07A6-4445-8CE6-FA2673C02889}.Release|Windows Phone.ActiveCfg = Release|Windows Phone
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,13 @@
+C:\Users\Leviathan\Desktop\Apress\Wp7 Recipes 2nd\Chapter 9\Projects\First Push Notification\First Push Notification\Send Notification Application\bin\Release\Send Notification Application.exe
+C:\Users\Leviathan\Desktop\Apress\Wp7 Recipes 2nd\Chapter 9\Projects\First Push Notification\First Push Notification\Send Notification Application\bin\Release\Send Notification Application.pdb
+C:\Users\Leviathan\Desktop\Apress\Wp7 Recipes 2nd\Chapter 9\Projects\First Push Notification\First Push Notification\Send Notification Application\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Leviathan\Desktop\Apress\Wp7 Recipes 2nd\Chapter 9\Projects\First Push Notification\First Push Notification\Send Notification Application\obj\x86\Release\MainWindow.baml
+C:\Users\Leviathan\Desktop\Apress\Wp7 Recipes 2nd\Chapter 9\Projects\First Push Notification\First Push Notification\Send Notification Application\obj\x86\Release\MainWindow.g.cs
+C:\Users\Leviathan\Desktop\Apress\Wp7 Recipes 2nd\Chapter 9\Projects\First Push Notification\First Push Notification\Send Notification Application\obj\x86\Release\App.g.cs
+C:\Users\Leviathan\Desktop\Apress\Wp7 Recipes 2nd\Chapter 9\Projects\First Push Notification\First Push Notification\Send Notification Application\obj\x86\Release\Send Notification Application_MarkupCompile.cache
+C:\Users\Leviathan\Desktop\Apress\Wp7 Recipes 2nd\Chapter 9\Projects\First Push Notification\First Push Notification\Send Notification Application\obj\x86\Release\Send Notification Application.g.resources
+C:\Users\Leviathan\Desktop\Apress\Wp7 Recipes 2nd\Chapter 9\Projects\First Push Notification\First Push Notification\Send Notification Application\obj\x86\Release\Send_Notification_Application.Properties.Resources.resources
+C:\Users\Leviathan\Desktop\Apress\Wp7 Recipes 2nd\Chapter 9\Projects\First Push Notification\First Push Notification\Send Notification Application\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\Leviathan\Desktop\Apress\Wp7 Recipes 2nd\Chapter 9\Projects\First Push Notification\First Push Notification\Send Notification Application\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\Leviathan\Desktop\Apress\Wp7 Recipes 2nd\Chapter 9\Projects\First Push Notification\First Push Notification\Send Notification Application\obj\x86\Release\Send Notification Application.exe
+C:\Users\Leviathan\Desktop\Apress\Wp7 Recipes 2nd\Chapter 9\Projects\First Push Notification\First Push Notification\Send Notification Application\obj\x86\Release\Send Notification Application.pdb

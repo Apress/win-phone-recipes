@@ -1,0 +1,35 @@
+C:\Users\Leviathan\Desktop\Apress\Wp7 Recipes 2nd\Chapter 10\Wp7Recipe 10-2 MVVM\Wp7Recipe 10 MVVM\Bin\Debug\ApplicationIcon.png
+C:\Users\Leviathan\Desktop\Apress\Wp7 Recipes 2nd\Chapter 10\Wp7Recipe 10-2 MVVM\Wp7Recipe 10 MVVM\Bin\Debug\Background.png
+C:\Users\Leviathan\Desktop\Apress\Wp7 Recipes 2nd\Chapter 10\Wp7Recipe 10-2 MVVM\Wp7Recipe 10 MVVM\Bin\Debug\Wp7Recipe 10-2 MVVM.dll
+C:\Users\Leviathan\Desktop\Apress\Wp7 Recipes 2nd\Chapter 10\Wp7Recipe 10-2 MVVM\Wp7Recipe 10 MVVM\Bin\Debug\Wp7Recipe 10-2 MVVM.pdb
+C:\Users\Leviathan\Desktop\Apress\Wp7 Recipes 2nd\Chapter 10\Wp7Recipe 10-2 MVVM\Wp7Recipe 10 MVVM\Bin\Debug\AppManifest.xaml
+C:\Users\Leviathan\Desktop\Apress\Wp7 Recipes 2nd\Chapter 10\Wp7Recipe 10-2 MVVM\Wp7Recipe 10 MVVM\Bin\Debug\Wp7Recipe_10_2_MVVM.xap
+C:\Users\Leviathan\Desktop\Apress\Wp7 Recipes 2nd\Chapter 10\Wp7Recipe 10-2 MVVM\Wp7Recipe 10 MVVM\Bin\Debug\Microsoft.Phone.Controls.Toolkit.dll
+C:\Users\Leviathan\Desktop\Apress\Wp7 Recipes 2nd\Chapter 10\Wp7Recipe 10-2 MVVM\Wp7Recipe 10 MVVM\Bin\Debug\Microsoft.Practices.Prism.dll
+C:\Users\Leviathan\Desktop\Apress\Wp7 Recipes 2nd\Chapter 10\Wp7Recipe 10-2 MVVM\Wp7Recipe 10 MVVM\Bin\Debug\Microsoft.Practices.Prism.Interactivity.dll
+C:\Users\Leviathan\Desktop\Apress\Wp7 Recipes 2nd\Chapter 10\Wp7Recipe 10-2 MVVM\Wp7Recipe 10 MVVM\Bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Leviathan\Desktop\Apress\Wp7 Recipes 2nd\Chapter 10\Wp7Recipe 10-2 MVVM\Wp7Recipe 10 MVVM\Bin\Debug\Microsoft.Phone.Controls.Toolkit.pdb
+C:\Users\Leviathan\Desktop\Apress\Wp7 Recipes 2nd\Chapter 10\Wp7Recipe 10-2 MVVM\Wp7Recipe 10 MVVM\Bin\Debug\Microsoft.Phone.Controls.Toolkit.xml
+C:\Users\Leviathan\Desktop\Apress\Wp7 Recipes 2nd\Chapter 10\Wp7Recipe 10-2 MVVM\Wp7Recipe 10 MVVM\Bin\Debug\Microsoft.Practices.Prism.pdb
+C:\Users\Leviathan\Desktop\Apress\Wp7 Recipes 2nd\Chapter 10\Wp7Recipe 10-2 MVVM\Wp7Recipe 10 MVVM\Bin\Debug\Microsoft.Practices.Prism.xml
+C:\Users\Leviathan\Desktop\Apress\Wp7 Recipes 2nd\Chapter 10\Wp7Recipe 10-2 MVVM\Wp7Recipe 10 MVVM\Bin\Debug\Microsoft.Practices.Prism.Interactivity.pdb
+C:\Users\Leviathan\Desktop\Apress\Wp7 Recipes 2nd\Chapter 10\Wp7Recipe 10-2 MVVM\Wp7Recipe 10 MVVM\Bin\Debug\Microsoft.Practices.Prism.Interactivity.xml
+C:\Users\Leviathan\Desktop\Apress\Wp7 Recipes 2nd\Chapter 10\Wp7Recipe 10-2 MVVM\Wp7Recipe 10 MVVM\Bin\Debug\Microsoft.Silverlight.Testing.pdb
+C:\Users\Leviathan\Desktop\Apress\Wp7 Recipes 2nd\Chapter 10\Wp7Recipe 10-2 MVVM\Wp7Recipe 10 MVVM\Bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTesting.Silverlight.pdb
+C:\Users\Leviathan\Desktop\Apress\Wp7 Recipes 2nd\Chapter 10\Wp7Recipe 10-2 MVVM\Wp7Recipe 10 MVVM\Bin\Debug\System.Windows.Interactivity.xml
+C:\Users\Leviathan\Desktop\Apress\Wp7 Recipes 2nd\Chapter 10\Wp7Recipe 10-2 MVVM\Wp7Recipe 10 MVVM\Bin\Debug\de\System.Windows.Interactivity.resources.dll
+C:\Users\Leviathan\Desktop\Apress\Wp7 Recipes 2nd\Chapter 10\Wp7Recipe 10-2 MVVM\Wp7Recipe 10 MVVM\Bin\Debug\en\System.Windows.Interactivity.resources.dll
+C:\Users\Leviathan\Desktop\Apress\Wp7 Recipes 2nd\Chapter 10\Wp7Recipe 10-2 MVVM\Wp7Recipe 10 MVVM\Bin\Debug\es\System.Windows.Interactivity.resources.dll
+C:\Users\Leviathan\Desktop\Apress\Wp7 Recipes 2nd\Chapter 10\Wp7Recipe 10-2 MVVM\Wp7Recipe 10 MVVM\Bin\Debug\fr\System.Windows.Interactivity.resources.dll
+C:\Users\Leviathan\Desktop\Apress\Wp7 Recipes 2nd\Chapter 10\Wp7Recipe 10-2 MVVM\Wp7Recipe 10 MVVM\Bin\Debug\it\System.Windows.Interactivity.resources.dll
+C:\Users\Leviathan\Desktop\Apress\Wp7 Recipes 2nd\Chapter 10\Wp7Recipe 10-2 MVVM\Wp7Recipe 10 MVVM\Bin\Debug\ja\System.Windows.Interactivity.resources.dll
+C:\Users\Leviathan\Desktop\Apress\Wp7 Recipes 2nd\Chapter 10\Wp7Recipe 10-2 MVVM\Wp7Recipe 10 MVVM\Bin\Debug\ko\System.Windows.Interactivity.resources.dll
+C:\Users\Leviathan\Desktop\Apress\Wp7 Recipes 2nd\Chapter 10\Wp7Recipe 10-2 MVVM\Wp7Recipe 10 MVVM\Bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\Users\Leviathan\Desktop\Apress\Wp7 Recipes 2nd\Chapter 10\Wp7Recipe 10-2 MVVM\Wp7Recipe 10 MVVM\Bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\Users\Leviathan\Desktop\Apress\Wp7 Recipes 2nd\Chapter 10\Wp7Recipe 10-2 MVVM\Wp7Recipe 10 MVVM\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Leviathan\Desktop\Apress\Wp7 Recipes 2nd\Chapter 10\Wp7Recipe 10-2 MVVM\Wp7Recipe 10 MVVM\obj\Debug\App.g.i.cs
+C:\Users\Leviathan\Desktop\Apress\Wp7 Recipes 2nd\Chapter 10\Wp7Recipe 10-2 MVVM\Wp7Recipe 10 MVVM\obj\Debug\MainPage.g.i.cs
+C:\Users\Leviathan\Desktop\Apress\Wp7 Recipes 2nd\Chapter 10\Wp7Recipe 10-2 MVVM\Wp7Recipe 10 MVVM\obj\Debug\Wp7Recipe 10-2 MVVM.g.resources
+C:\Users\Leviathan\Desktop\Apress\Wp7 Recipes 2nd\Chapter 10\Wp7Recipe 10-2 MVVM\Wp7Recipe 10 MVVM\obj\Debug\Wp7Recipe 10-2 MVVM.dll
+C:\Users\Leviathan\Desktop\Apress\Wp7 Recipes 2nd\Chapter 10\Wp7Recipe 10-2 MVVM\Wp7Recipe 10 MVVM\obj\Debug\Wp7Recipe 10-2 MVVM.pdb
+C:\Users\Leviathan\Desktop\Apress\Wp7 Recipes 2nd\Chapter 10\Wp7Recipe 10-2 MVVM\Wp7Recipe 10 MVVM\obj\Debug\XapCacheFile.xml

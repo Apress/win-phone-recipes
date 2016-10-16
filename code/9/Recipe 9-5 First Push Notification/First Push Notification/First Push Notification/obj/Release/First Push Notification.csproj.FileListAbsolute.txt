@@ -1,0 +1,11 @@
+C:\Users\Leviathan\Desktop\Apress\Wp7 Recipes 2nd\Chapter 9\Projects\First Push Notification\First Push Notification\First Push Notification\Bin\Release\First Push Notification.dll
+C:\Users\Leviathan\Desktop\Apress\Wp7 Recipes 2nd\Chapter 9\Projects\First Push Notification\First Push Notification\First Push Notification\Bin\Release\First Push Notification.pdb
+C:\Users\Leviathan\Desktop\Apress\Wp7 Recipes 2nd\Chapter 9\Projects\First Push Notification\First Push Notification\First Push Notification\Bin\Release\AppManifest.xaml
+C:\Users\Leviathan\Desktop\Apress\Wp7 Recipes 2nd\Chapter 9\Projects\First Push Notification\First Push Notification\First Push Notification\Bin\Release\First_Push_Notification.xap
+C:\Users\Leviathan\Desktop\Apress\Wp7 Recipes 2nd\Chapter 9\Projects\First Push Notification\First Push Notification\First Push Notification\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Leviathan\Desktop\Apress\Wp7 Recipes 2nd\Chapter 9\Projects\First Push Notification\First Push Notification\First Push Notification\obj\Release\App.g.i.cs
+C:\Users\Leviathan\Desktop\Apress\Wp7 Recipes 2nd\Chapter 9\Projects\First Push Notification\First Push Notification\First Push Notification\obj\Release\MainPage.g.i.cs
+C:\Users\Leviathan\Desktop\Apress\Wp7 Recipes 2nd\Chapter 9\Projects\First Push Notification\First Push Notification\First Push Notification\obj\Release\First Push Notification.g.resources
+C:\Users\Leviathan\Desktop\Apress\Wp7 Recipes 2nd\Chapter 9\Projects\First Push Notification\First Push Notification\First Push Notification\obj\Release\First Push Notification.dll
+C:\Users\Leviathan\Desktop\Apress\Wp7 Recipes 2nd\Chapter 9\Projects\First Push Notification\First Push Notification\First Push Notification\obj\Release\First Push Notification.pdb
+C:\Users\Leviathan\Desktop\Apress\Wp7 Recipes 2nd\Chapter 9\Projects\First Push Notification\First Push Notification\First Push Notification\obj\Release\XapCacheFile.xml

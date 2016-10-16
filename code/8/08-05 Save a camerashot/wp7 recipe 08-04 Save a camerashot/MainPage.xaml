@@ -1,0 +1,51 @@
+﻿<phone:PhoneApplicationPage
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:phone="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone"
+    xmlns:shell="clr-namespace:Microsoft.Phone.Shell;assembly=Microsoft.Phone"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    xmlns:toolkit="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone.Controls.Toolkit" 
+    x:Class="wp7_recipe_08_04_Save_a_camerashot.MainPage"
+    mc:Ignorable="d" d:DesignWidth="480" d:DesignHeight="696"
+    FontFamily="{StaticResource PhoneFontFamilyNormal}"
+    FontSize="{StaticResource PhoneFontSizeNormal}"
+    Foreground="{StaticResource PhoneForegroundBrush}"
+    SupportedOrientations="Portrait" Orientation="Portrait"
+    shell:SystemTray.IsVisible="True">
+
+    <!--LayoutRoot is the root grid where all page content is placed-->
+    <Grid x:Name="LayoutRoot" Background="Transparent">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <!--TitlePanel contains the name of the application and page title-->
+        <StackPanel x:Name="TitlePanel" Grid.Row="0" Margin="12,17,0,28">
+            <TextBlock x:Name="ApplicationTitle" Text="Photo App" Style="{StaticResource PhoneTextNormalStyle}"/>
+        </StackPanel>
+
+        <!--ContentPanel - place additional content here-->
+        <Grid x:Name="ContentPanel" Grid.Row="1" Margin="12,0,12,0">
+            <Button Content="Capture a Photo" Height="72" Margin="47,6,76,0" Name="CameraButton" VerticalAlignment="Top" Click="CameraButton_Click" />
+            <Image Height="337" HorizontalAlignment="Left" Margin="12,84,0,0" Name="image" Stretch="Fill" VerticalAlignment="Top" Width="438" />
+            <TextBox Height="72" HorizontalAlignment="Left" Margin="-4,457,0,0" Name="FileNameTextBox" Text="TextBox" VerticalAlignment="Top" Width="460" />
+            <TextBlock Height="30" HorizontalAlignment="Left" Margin="98,433,0,0" Name="textBlock1" Text="Choose a name and album" VerticalAlignment="Top" Width="242" />
+            <ListBox Height="96" HorizontalAlignment="Left" Margin="6,522,0,0" Name="AlbumsListBox" VerticalAlignment="Top" Width="444" />
+        </Grid>
+    </Grid>
+
+    <phone:PhoneApplicationPage.ApplicationBar>
+        <shell:ApplicationBar IsVisible="True" IsMenuEnabled="True">
+            <shell:ApplicationBarIconButton IconUri="/icons/appbar.save.rest.png" Text="Save" x:Name="SaveButton" Click="SaveButton_Click" />
+            <shell:ApplicationBarIconButton IconUri="/icons/appbar.folder.rest.png" Text="Archive" x:Name="PhotosButton" Click="PhotosButton_Click" />
+
+            <shell:ApplicationBar.MenuItems>
+                <shell:ApplicationBarMenuItem Text="Create Album" x:Name="CreateAlbumButton" Click="CreateAlbumButton_Click" />
+            </shell:ApplicationBar.MenuItems>
+        </shell:ApplicationBar>
+
+    </phone:PhoneApplicationPage.ApplicationBar>
+
+</phone:PhoneApplicationPage>

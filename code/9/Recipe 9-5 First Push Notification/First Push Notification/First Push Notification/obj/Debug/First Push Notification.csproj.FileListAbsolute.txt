@@ -1,0 +1,22 @@
+C:\Users\Leviathan\Desktop\Apress\Wp7 Recipes 2nd\Chapter 10\Projects\First Push Notification\First Push Notification\First Push Notification\Bin\Debug\First Push Notification.dll
+C:\Users\Leviathan\Desktop\Apress\Wp7 Recipes 2nd\Chapter 10\Projects\First Push Notification\First Push Notification\First Push Notification\Bin\Debug\First Push Notification.pdb
+C:\Users\Leviathan\Desktop\Apress\Wp7 Recipes 2nd\Chapter 10\Projects\First Push Notification\First Push Notification\First Push Notification\Bin\Debug\AppManifest.xaml
+C:\Users\Leviathan\Desktop\Apress\Wp7 Recipes 2nd\Chapter 10\Projects\First Push Notification\First Push Notification\First Push Notification\Bin\Debug\First_Push_Notification.xap
+C:\Users\Leviathan\Desktop\Apress\Wp7 Recipes 2nd\Chapter 10\Projects\First Push Notification\First Push Notification\First Push Notification\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Leviathan\Desktop\Apress\Wp7 Recipes 2nd\Chapter 10\Projects\First Push Notification\First Push Notification\First Push Notification\obj\Debug\App.g.i.cs
+C:\Users\Leviathan\Desktop\Apress\Wp7 Recipes 2nd\Chapter 10\Projects\First Push Notification\First Push Notification\First Push Notification\obj\Debug\MainPage.g.i.cs
+C:\Users\Leviathan\Desktop\Apress\Wp7 Recipes 2nd\Chapter 10\Projects\First Push Notification\First Push Notification\First Push Notification\obj\Debug\First Push Notification.g.resources
+C:\Users\Leviathan\Desktop\Apress\Wp7 Recipes 2nd\Chapter 10\Projects\First Push Notification\First Push Notification\First Push Notification\obj\Debug\First Push Notification.dll
+C:\Users\Leviathan\Desktop\Apress\Wp7 Recipes 2nd\Chapter 10\Projects\First Push Notification\First Push Notification\First Push Notification\obj\Debug\First Push Notification.pdb
+C:\Users\Leviathan\Desktop\Apress\Wp7 Recipes 2nd\Chapter 10\Projects\First Push Notification\First Push Notification\First Push Notification\obj\Debug\XapCacheFile.xml
+C:\Users\Leviathan\Desktop\Apress\Wp7 Recipes 2nd\Chapter 9\Projects\First Push Notification\First Push Notification\First Push Notification\Bin\Debug\First Push Notification.dll
+C:\Users\Leviathan\Desktop\Apress\Wp7 Recipes 2nd\Chapter 9\Projects\First Push Notification\First Push Notification\First Push Notification\Bin\Debug\First Push Notification.pdb
+C:\Users\Leviathan\Desktop\Apress\Wp7 Recipes 2nd\Chapter 9\Projects\First Push Notification\First Push Notification\First Push Notification\Bin\Debug\AppManifest.xaml
+C:\Users\Leviathan\Desktop\Apress\Wp7 Recipes 2nd\Chapter 9\Projects\First Push Notification\First Push Notification\First Push Notification\Bin\Debug\First_Push_Notification.xap
+C:\Users\Leviathan\Desktop\Apress\Wp7 Recipes 2nd\Chapter 9\Projects\First Push Notification\First Push Notification\First Push Notification\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Leviathan\Desktop\Apress\Wp7 Recipes 2nd\Chapter 9\Projects\First Push Notification\First Push Notification\First Push Notification\obj\Debug\App.g.i.cs
+C:\Users\Leviathan\Desktop\Apress\Wp7 Recipes 2nd\Chapter 9\Projects\First Push Notification\First Push Notification\First Push Notification\obj\Debug\MainPage.g.i.cs
+C:\Users\Leviathan\Desktop\Apress\Wp7 Recipes 2nd\Chapter 9\Projects\First Push Notification\First Push Notification\First Push Notification\obj\Debug\First Push Notification.g.resources
+C:\Users\Leviathan\Desktop\Apress\Wp7 Recipes 2nd\Chapter 9\Projects\First Push Notification\First Push Notification\First Push Notification\obj\Debug\First Push Notification.dll
+C:\Users\Leviathan\Desktop\Apress\Wp7 Recipes 2nd\Chapter 9\Projects\First Push Notification\First Push Notification\First Push Notification\obj\Debug\First Push Notification.pdb
+C:\Users\Leviathan\Desktop\Apress\Wp7 Recipes 2nd\Chapter 9\Projects\First Push Notification\First Push Notification\First Push Notification\obj\Debug\XapCacheFile.xml

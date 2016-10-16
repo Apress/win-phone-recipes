@@ -1,0 +1,7 @@
+C:\Users\Ferracchiati\Documents\Apress\Windows Phone 7 Recipes\MangoUpdate\code\Chapter3\PhoneToolkitSample\Bin\Debug\Microsoft.Phone.Controls.Toolkit.VisualStudio.Design.dll
+C:\Users\Ferracchiati\Documents\Apress\Windows Phone 7 Recipes\MangoUpdate\code\Chapter3\PhoneToolkitSample\Bin\Debug\Microsoft.Phone.Controls.Toolkit.VisualStudio.Design.pdb
+C:\Users\Ferracchiati\Documents\Apress\Windows Phone 7 Recipes\MangoUpdate\code\Chapter3\PhoneToolkitSample\Bin\Debug\Microsoft.Phone.Controls.Toolkit.VisualStudio.Design.dll.CodeAnalysisLog.xml
+C:\Users\Ferracchiati\Documents\Apress\Windows Phone 7 Recipes\MangoUpdate\code\Chapter3\PhoneToolkitSample\Bin\Debug\Microsoft.Phone.Controls.Toolkit.VisualStudio.Design.dll.lastcodeanalysissucceeded
+C:\Users\Ferracchiati\Documents\Apress\Windows Phone 7 Recipes\MangoUpdate\code\Chapter3\PhoneToolkitSample\Microsoft.Phone.Controls.Toolkit.VisualStudio.Design\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Ferracchiati\Documents\Apress\Windows Phone 7 Recipes\MangoUpdate\code\Chapter3\PhoneToolkitSample\Microsoft.Phone.Controls.Toolkit.VisualStudio.Design\obj\Debug\Microsoft.Phone.Controls.Toolkit.VisualStudio.Design.dll
+C:\Users\Ferracchiati\Documents\Apress\Windows Phone 7 Recipes\MangoUpdate\code\Chapter3\PhoneToolkitSample\Microsoft.Phone.Controls.Toolkit.VisualStudio.Design\obj\Debug\Microsoft.Phone.Controls.Toolkit.VisualStudio.Design.pdb

@@ -1,0 +1,5 @@
+﻿<Deployment xmlns="http://schemas.microsoft.com/client/2007/deployment" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" EntryPointAssembly="9-3 Implementing local database" EntryPointType="_9_3_Implementing_local_database.App" RuntimeVersion="4.7.50308.0">
+  <Deployment.Parts>
+    <AssemblyPart x:Name="9-3 Implementing local database" Source="9-3 Implementing local database.dll" />
+  </Deployment.Parts>
+</Deployment>

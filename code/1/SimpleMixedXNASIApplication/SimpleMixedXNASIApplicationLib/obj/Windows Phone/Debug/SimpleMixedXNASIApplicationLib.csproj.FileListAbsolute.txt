@@ -1,0 +1,6 @@
+C:\Users\Ferracchiati\Documents\Apress\Windows Phone 7 Recipes\MangoUpdate\code\Chapter1\SimpleMixedXNASIApplication\SimpleMixedXNASIApplicationLib\bin\Windows Phone\Debug\SimpleMixedXNASIApplicationLib.dll
+C:\Users\Ferracchiati\Documents\Apress\Windows Phone 7 Recipes\MangoUpdate\code\Chapter1\SimpleMixedXNASIApplication\SimpleMixedXNASIApplicationLib\bin\Windows Phone\Debug\SimpleMixedXNASIApplicationLib.pdb
+C:\Users\Ferracchiati\Documents\Apress\Windows Phone 7 Recipes\MangoUpdate\code\Chapter1\SimpleMixedXNASIApplication\SimpleMixedXNASIApplicationLib\obj\Windows Phone\Debug\ResolveAssemblyReference.cache
+C:\Users\Ferracchiati\Documents\Apress\Windows Phone 7 Recipes\MangoUpdate\code\Chapter1\SimpleMixedXNASIApplication\SimpleMixedXNASIApplicationLib\obj\Windows Phone\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Ferracchiati\Documents\Apress\Windows Phone 7 Recipes\MangoUpdate\code\Chapter1\SimpleMixedXNASIApplication\SimpleMixedXNASIApplicationLib\obj\Windows Phone\Debug\SimpleMixedXNASIApplicationLib.dll
+C:\Users\Ferracchiati\Documents\Apress\Windows Phone 7 Recipes\MangoUpdate\code\Chapter1\SimpleMixedXNASIApplication\SimpleMixedXNASIApplicationLib\obj\Windows Phone\Debug\SimpleMixedXNASIApplicationLib.pdb

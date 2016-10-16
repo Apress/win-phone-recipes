@@ -1,0 +1,16 @@
+c:\users\leviathan\documents\visual studio 2010\Projects\Wp7Recipe 06-06 Using Radio\Wp7Recipe 06-06 Using Radio\Bin\Debug\ApplicationIcon.png
+c:\users\leviathan\documents\visual studio 2010\Projects\Wp7Recipe 06-06 Using Radio\Wp7Recipe 06-06 Using Radio\Bin\Debug\Background.png
+c:\users\leviathan\documents\visual studio 2010\Projects\Wp7Recipe 06-06 Using Radio\Wp7Recipe 06-06 Using Radio\Bin\Debug\Wp7Recipe 06-06 Using Radio.dll
+c:\users\leviathan\documents\visual studio 2010\Projects\Wp7Recipe 06-06 Using Radio\Wp7Recipe 06-06 Using Radio\Bin\Debug\Wp7Recipe 06-06 Using Radio.pdb
+c:\users\leviathan\documents\visual studio 2010\Projects\Wp7Recipe 06-06 Using Radio\Wp7Recipe 06-06 Using Radio\Bin\Debug\AppManifest.xaml
+c:\users\leviathan\documents\visual studio 2010\Projects\Wp7Recipe 06-06 Using Radio\Wp7Recipe 06-06 Using Radio\Bin\Debug\Wp7Recipe_06_06_Using_Radio.xap
+c:\users\leviathan\documents\visual studio 2010\Projects\Wp7Recipe 06-06 Using Radio\Wp7Recipe 06-06 Using Radio\Bin\Debug\Microsoft.Phone.Controls.Toolkit.dll
+c:\users\leviathan\documents\visual studio 2010\Projects\Wp7Recipe 06-06 Using Radio\Wp7Recipe 06-06 Using Radio\Bin\Debug\Microsoft.Phone.Controls.Toolkit.pdb
+c:\users\leviathan\documents\visual studio 2010\Projects\Wp7Recipe 06-06 Using Radio\Wp7Recipe 06-06 Using Radio\Bin\Debug\Microsoft.Phone.Controls.Toolkit.xml
+c:\users\leviathan\documents\visual studio 2010\Projects\Wp7Recipe 06-06 Using Radio\Wp7Recipe 06-06 Using Radio\obj\Debug\ResolveAssemblyReference.cache
+c:\users\leviathan\documents\visual studio 2010\Projects\Wp7Recipe 06-06 Using Radio\Wp7Recipe 06-06 Using Radio\obj\Debug\Wp7Recipe 06-06 Using Radio.g.resources
+c:\users\leviathan\documents\visual studio 2010\Projects\Wp7Recipe 06-06 Using Radio\Wp7Recipe 06-06 Using Radio\obj\Debug\Wp7Recipe 06-06 Using Radio.dll
+c:\users\leviathan\documents\visual studio 2010\Projects\Wp7Recipe 06-06 Using Radio\Wp7Recipe 06-06 Using Radio\obj\Debug\Wp7Recipe 06-06 Using Radio.pdb
+c:\users\leviathan\documents\visual studio 2010\Projects\Wp7Recipe 06-06 Using Radio\Wp7Recipe 06-06 Using Radio\obj\Debug\XapCacheFile.xml
+C:\Users\Leviathan\documents\visual studio 2010\Projects\Wp7Recipe 06-06 Using Radio\Wp7Recipe 06-06 Using Radio\obj\Debug\App.g.i.cs
+C:\Users\Leviathan\documents\visual studio 2010\Projects\Wp7Recipe 06-06 Using Radio\Wp7Recipe 06-06 Using Radio\obj\Debug\MainPage.g.i.cs
